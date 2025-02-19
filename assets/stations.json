@@ -1,0 +1,7049 @@
+{
+	"stations": [
+		{
+			"name": "7. septembra",
+			"to_center": true,
+			"id": "103111"
+		},
+		{
+			"name": "AMZS",
+			"to_center": true,
+			"id": "103031"
+		},
+		{
+			"name": "Agrokombinatska",
+			"to_center": true,
+			"id": "204211"
+		},
+		{
+			"name": "Agrokombinatska",
+			"to_center": true,
+
+			"id": "204213"
+		},
+		{
+			"name": "Ajdovščina",
+			"to_center": true,
+			"id": "600021"
+		},
+		{
+			"name": "Akademija",
+			"to_center": true,
+			"id": "503031"
+		},
+		{
+			"name": "Aleja",
+			"to_center": true,
+			"id": "803021"
+		},
+		{
+			"name": "Ambrožev trg",
+			"to_center": true,
+			"id": "502013"
+		},
+		{
+			"name": "Ambrus",
+			"to_center": true,
+			"id": "528151"
+		},
+		{
+			"name": "Andreja Bitenca",
+			"to_center": true,
+			"id": "804171"
+		},
+		{
+			"name": "Anžon",
+			"to_center": true,
+			"id": "999871"
+		},
+		{
+			"name": "Archinetova",
+			"to_center": true,
+			"id": "303061"
+		},
+		{
+			"name": "Astra",
+			"to_center": true,
+			"id": "101051"
+		},
+		{
+			"name": "Aškerčeva",
+			"to_center": true,
+			"id": "602051"
+		},
+		{
+			"name": "BARJE P+R",
+			"to_center": true,
+			"id": "603181"
+		},
+		{
+			"name": "BERIČEVO",
+			"to_center": true,
+			"id": "204171"
+		},
+		{
+			"name": "BESNICA obrač.",
+			"to_center": true,
+			"id": "405111"
+		},
+		{
+			"name": "BOKALCE",
+			"to_center": true,
+			"id": "704041"
+		},
+		{
+			"name": "BRNČIČEVA",
+			"to_center": true,
+			"id": "204121"
+		},
+		{
+			"name": "BROD",
+			"to_center": true,
+			"id": "804121"
+		},
+		{
+			"name": "BTC-ATLANTIS",
+			"to_center": true,
+			"id": "203251"
+		},
+		{
+			"name": "BTC-Emporium",
+			"to_center": true,
+			"id": "203141"
+		},
+		{
+			"name": "BTC-Kolosej",
+			"to_center": true,
+			"id": "203131"
+		},
+		{
+			"name": "BTC-Merkur",
+			"to_center": true,
+			"id": "203241"
+		},
+		{
+			"name": "BTC-tržnica",
+			"to_center": true,
+			"id": "203121"
+		},
+		{
+			"name": "BTC-uprava",
+			"to_center": true,
+			"id": "203111"
+		},
+		{
+			"name": "Baragova",
+			"to_center": true,
+			"id": "103211"
+		},
+		{
+			"name": "Barje",
+			"to_center": true,
+			"id": "604023"
+		},
+		{
+			"name": "Bavarski dvor",
+			"to_center": true,
+			"id": "600011"
+		},
+		{
+			"name": "Belica",
+			"to_center": true,
+			"id": "725091"
+		},
+		{
+			"name": "Belinka",
+			"to_center": true,
+			"id": "204141"
+		},
+		{
+			"name": "Benat",
+			"to_center": true,
+			"id": "546021"
+		},
+		{
+			"name": "Besnica",
+			"to_center": true,
+			"id": "405021"
+		},
+		{
+			"name": "Besnica ambulanta",
+			"to_center": true,
+			"id": "405051"
+		},
+		{
+			"name": "Besnica kamnolom",
+			"to_center": true,
+			"id": "405061"
+		},
+		{
+			"name": "Besnica šola",
+			"to_center": true,
+			"id": "405031"
+		},
+		{
+			"name": "Bevke",
+			"to_center": true,
+			"id": "765031"
+		},
+		{
+			"name": "Bežigrad",
+			"to_center": true,
+			"id": "101031"
+		},
+		{
+			"name": "Bilečanska",
+			"to_center": true,
+			"id": "403071"
+		},
+		{
+			"name": "Bistra",
+			"to_center": true,
+			"id": "756101"
+		},
+		{
+			"name": "Bizovik",
+			"to_center": true,
+			"id": "404121"
+		},
+		{
+			"name": "Blatna Brezovica",
+			"to_center": true,
+			"id": "765041"
+		},
+		{
+			"name": "Blaževo",
+			"to_center": true,
+			"id": "405041"
+		},
+		{
+			"name": "Bleiweisova",
+			"to_center": true,
+			"id": "701011"
+		},
+		{
+			"name": "Blekova vas",
+			"to_center": true,
+			"id": "707011"
+		},
+		{
+			"name": "Bobrova",
+			"to_center": true,
+			"id": "504121"
+		},
+		{
+			"name": "Boga vas",
+			"to_center": true,
+			"id": "508021"
+		},
+		{
+			"name": "Bolnica",
+			"to_center": true,
+			"id": "402041"
+		},
+		{
+			"name": "Bolnica P. Držaja",
+			"to_center": true,
+			"id": "802041"
+		},
+		{
+			"name": "Bonifacija",
+			"to_center": true,
+			"id": "703101"
+		},
+		{
+			"name": "Borovnica K",
+			"to_center": true,
+			"id": "756061"
+		},
+		{
+			"name": "Borovnica Merc.",
+			"to_center": true,
+			"id": "756071"
+		},
+		{
+			"name": "Borovnica most",
+			"to_center": true,
+			"id": "756051"
+		},
+		{
+			"name": "Božičeva",
+			"to_center": true,
+			"id": "103191"
+		},
+		{
+			"name": "Bratislavska",
+			"to_center": true,
+			"id": "203181"
+		},
+		{
+			"name": "Bratov Babnik",
+			"to_center": true,
+			"id": "803161"
+		},
+		{
+			"name": "Bratov Učakar",
+			"to_center": true,
+			"id": "803131"
+		},
+		{
+			"name": "Bratov Židan",
+			"to_center": true,
+			"id": "101061"
+		},
+		{
+			"name": "Brdo",
+			"to_center": true,
+			"id": "704023"
+		},
+		{
+			"name": "Breg pri Borovnici",
+			"to_center": true,
+			"id": "756041"
+		},
+		{
+			"name": "Brest",
+			"to_center": true,
+			"id": "615041"
+		},
+		{
+			"name": "Brezje pri Dobrovi",
+			"to_center": true,
+			"id": "715111"
+		},
+		{
+			"name": "Brezje pri Dobrovi And.",
+			"to_center": true,
+			"id": "715101"
+		},
+		{
+			"name": "Brglezov štradon",
+			"to_center": true,
+			"id": "614021"
+		},
+		{
+			"name": "Brinje",
+			"to_center": true,
+			"id": "103021"
+		},
+		{
+			"name": "Brnik PC zahod",
+			"to_center": true,
+			"id": "106053"
+		},
+		{
+			"name": "Brodarjev trg",
+			"to_center": true,
+			"id": "303071"
+		},
+		{
+			"name": "Brvace",
+			"to_center": true,
+			"id": "505091"
+		},
+		{
+			"name": "Bukovica Anzel",
+			"to_center": true,
+			"id": "826031"
+		},
+		{
+			"name": "Bukovica Plevevc",
+			"to_center": true,
+			"id": "826021"
+		},
+		{
+			"name": "C. STOŽICE P+R",
+			"to_center": true,
+			"id": "103173"
+		},
+		{
+			"name": "C. dveh cesarjev",
+			"to_center": true,
+			"id": "704161"
+		},
+		{
+			"name": "Cankarjev dom",
+			"to_center": true,
+			"id": "602011"
+		},
+		{
+			"name": "Capuder",
+			"to_center": true,
+			"id": "614041"
+		},
+		{
+			"name": "Center Zalog",
+			"to_center": true,
+			"id": "204181"
+		},
+		{
+			"name": "Cesta XV",
+			"to_center": true,
+			"id": "703021"
+		},
+		{
+			"name": "Cesta na Brod",
+			"to_center": true,
+			"id": "104091"
+		},
+		{
+			"name": "Cesta na Kope",
+			"to_center": true,
+			"id": "204351"
+		},
+		{
+			"name": "Cesta na Vevče",
+			"to_center": true,
+			"id": "304091"
+		},
+		{
+			"name": "Cesta na Vrhovce",
+			"to_center": true,
+			"id": "703221"
+		},
+		{
+			"name": "Cesta v Bizovik",
+			"to_center": true,
+			"id": "404021"
+		},
+		{
+			"name": "Cesta v Gorice",
+			"to_center": true,
+			"id": "704151"
+		},
+		{
+			"name": "Cesta v Kresnice",
+			"to_center": true,
+			"id": "204271"
+		},
+		{
+			"name": "Cesta v Zajčjo Dobravo",
+			"to_center": true,
+			"id": "204341"
+		},
+		{
+			"name": "Cesta v Zavoglje",
+			"to_center": true,
+			"id": "404071"
+		},
+		{
+			"name": "Cesta/Dobrepolju",
+			"to_center": true,
+			"id": "527011"
+		},
+		{
+			"name": "Chengdujska",
+			"to_center": true,
+			"id": "304041"
+		},
+		{
+			"name": "Cikava",
+			"to_center": true,
+			"id": "505081"
+		},
+		{
+			"name": "Cukrarna",
+			"to_center": true,
+			"id": "502021"
+		},
+		{
+			"name": "D. Brezovica Baša",
+			"to_center": true,
+			"id": "746021"
+		},
+		{
+			"name": "D. Brezovica Landovec",
+			"to_center": true,
+			"id": "746031"
+		},
+		{
+			"name": "D. MOST P+R",
+			"to_center": true,
+			"id": "704011"
+		},
+		{
+			"name": "D.vas pri Polh.G.",
+			"to_center": true,
+			"id": "725111"
+		},
+		{
+			"name": "DRAGOMELJ",
+			"to_center": true,
+			"id": "204231"
+		},
+		{
+			"name": "Debenc",
+			"to_center": true,
+			"id": "999861"
+		},
+		{
+			"name": "Dečja vas pri Zagradcu",
+			"to_center": true,
+			"id": "528091"
+		},
+		{
+			"name": "Dob/Šentvidu",
+			"to_center": true,
+			"id": "508011"
+		},
+		{
+			"name": "Dobrava/Črnučah",
+			"to_center": true,
+			"id": "104231"
+		},
+		{
+			"name": "Dobravica K",
+			"to_center": true,
+			"id": "605031"
+		},
+		{
+			"name": "Dobrova",
+			"to_center": true,
+			"id": "725011"
+		},
+		{
+			"name": "Dobrova",
+			"to_center": true,
+			"id": "725013"
+		},
+		{
+			"name": "Dobrova Maček",
+			"to_center": true,
+			"id": "715081"
+		},
+		{
+			"name": "Dobrova Skodlar",
+			"to_center": true,
+			"id": "715091"
+		},
+		{
+			"name": "Dobrova graben",
+			"to_center": true,
+			"id": "715061"
+		},
+		{
+			"name": "Dobrova vodomet",
+			"to_center": true,
+			"id": "715071"
+		},
+		{
+			"name": "Dobrunje",
+			"to_center": true,
+			"id": "404031"
+		},
+		{
+			"name": "Dobrunje-2",
+			"to_center": true,
+			"id": "404131"
+		},
+		{
+			"name": "Dobrunjska c.",
+			"to_center": true,
+			"id": "404181"
+		},
+		{
+			"name": "Dobruša lipa",
+			"to_center": true,
+			"id": "825071"
+		},
+		{
+			"name": "Dol pri Borovnici Majer",
+			"to_center": true,
+			"id": "756081"
+		},
+		{
+			"name": "Dol pri Borovnici Pivk",
+			"to_center": true,
+			"id": "756091"
+		},
+		{
+			"name": "Dolgi most",
+			"to_center": true,
+			"id": "703111"
+		},
+		{
+			"name": "Dolgi most Rotar",
+			"to_center": true,
+			"id": "704051"
+		},
+		{
+			"name": "Dolnice",
+			"to_center": true,
+			"id": "804401"
+		},
+		{
+			"name": "Dornig",
+			"to_center": true,
+			"id": "614031"
+		},
+		{
+			"name": "Draga",
+			"to_center": true,
+			"id": "803221"
+		},
+		{
+			"name": "Dragomer",
+			"to_center": true,
+			"id": "705011"
+		},
+		{
+			"name": "Drama",
+			"to_center": true,
+			"id": "602021"
+		},
+		{
+			"name": "Draveljska gmajna",
+			"to_center": true,
+			"id": "803151"
+		},
+		{
+			"name": "Dravlje",
+			"to_center": true,
+			"id": "803041"
+		},
+		{
+			"name": "Draževnik",
+			"to_center": true,
+			"id": "715011"
+		},
+		{
+			"name": "Drenikova",
+			"to_center": true,
+			"id": "802051"
+		},
+		{
+			"name": "Drenov Grič",
+			"to_center": true,
+			"id": "705051"
+		},
+		{
+			"name": "Drobnič",
+			"to_center": true,
+			"id": "535041"
+		},
+		{
+			"name": "Dvor",
+			"to_center": true,
+			"id": "804351"
+		},
+		{
+			"name": "Dvor pri Polh.G.",
+			"to_center": true,
+			"id": "725101"
+		},
+		{
+			"name": "Elma",
+			"to_center": true,
+			"id": "104061"
+		},
+		{
+			"name": "Emona",
+			"to_center": true,
+			"id": "403051"
+		},
+		{
+			"name": "Erbežnik",
+			"to_center": true,
+			"id": "745021"
+		},
+		{
+			"name": "FUŽINE P+R",
+			"to_center": true,
+			"id": "304051"
+		},
+		{
+			"name": "Friškovec",
+			"to_center": true,
+			"id": "301011"
+		},
+		{
+			"name": "G. Brezovica",
+			"to_center": true,
+			"id": "746041"
+		},
+		{
+			"name": "G.vas/Muljavi K",
+			"to_center": true,
+			"id": "567031"
+		},
+		{
+			"name": "GAMELJNE",
+			"to_center": true,
+			"id": "104221"
+		},
+		{
+			"name": "GROSUPLJE",
+			"to_center": true,
+			"id": "505143"
+		},
+		{
+			"name": "Gaberje pri Dob.Brvičar",
+			"to_center": true,
+			"id": "725041"
+		},
+		{
+			"name": "Gaberje pri Dobrovi",
+			"to_center": true,
+			"id": "725031"
+		},
+		{
+			"name": "Gabrovčec K",
+			"to_center": true,
+			"id": "567061"
+		},
+		{
+			"name": "Galjevica",
+			"to_center": true,
+			"id": "603161"
+		},
+		{
+			"name": "Ganter",
+			"to_center": true,
+			"id": "999831"
+		},
+		{
+			"name": "Gasilska brigada",
+			"to_center": true,
+			"id": "102031"
+		},
+		{
+			"name": "Gerbičeva",
+			"to_center": true,
+			"id": "603021"
+		},
+		{
+			"name": "Glince",
+			"to_center": true,
+			"id": "703081"
+		},
+		{
+			"name": "Glinek/Škofljici",
+			"to_center": true,
+			"id": "515021"
+		},
+		{
+			"name": "Glogovica K",
+			"to_center": true,
+			"id": "507141"
+		},
+		{
+			"name": "Glonarjeva",
+			"to_center": true,
+			"id": "402051"
+		},
+		{
+			"name": "Golo",
+			"to_center": true,
+			"id": "605061"
+		},
+		{
+			"name": "Golouhova",
+			"to_center": true,
+			"id": "603151"
+		},
+		{
+			"name": "Goričane kopališče",
+			"to_center": true,
+			"id": "815201"
+		},
+		{
+			"name": "Goričane pod gradom",
+			"to_center": true,
+			"id": "815191"
+		},
+		{
+			"name": "Goričica pod Krimom",
+			"to_center": true,
+			"id": "756021"
+		},
+		{
+			"name": "Gorjančeva",
+			"to_center": true,
+			"id": "103091"
+		},
+		{
+			"name": "Gornje Poljane",
+			"to_center": true,
+			"id": "402061"
+		},
+		{
+			"name": "Gornji Rudnik",
+			"to_center": true,
+			"id": "504011"
+		},
+		{
+			"name": "Gornji trg",
+			"to_center": true,
+			"id": "602101"
+		},
+		{
+			"name": "Gosposvetska",
+			"to_center": true,
+			"id": "700011"
+		},
+		{
+			"name": "Gostilna Kovač",
+			"to_center": true,
+			"id": "815101"
+		},
+		{
+			"name": "Gradišče 1",
+			"to_center": true,
+			"id": "515101"
+		},
+		{
+			"name": "Gradišče 2",
+			"to_center": true,
+			"id": "515111"
+		},
+		{
+			"name": "Gradišče 3",
+			"to_center": true,
+			"id": "515121"
+		},
+		{
+			"name": "Grintovec/Zagradcu",
+			"to_center": true,
+			"id": "528101"
+		},
+		{
+			"name": "Griže/Stični",
+			"to_center": true,
+			"id": "507091"
+		},
+		{
+			"name": "Grm",
+			"to_center": true,
+			"id": "508051"
+		},
+		{
+			"name": "Grosuplje",
+			"to_center": true,
+			"id": "505141"
+		},
+		{
+			"name": "Grosuplje Motel",
+			"to_center": true,
+			"id": "506011"
+		},
+		{
+			"name": "Grosuplje SM",
+			"to_center": true,
+			"id": "556011"
+		},
+		{
+			"name": "Grčarevec",
+			"to_center": true,
+			"id": "707041"
+		},
+		{
+			"name": "Grčarevski Vrh",
+			"to_center": true,
+			"id": "707043"
+		},
+		{
+			"name": "Hajdrihova",
+			"to_center": true,
+			"id": "602031"
+		},
+		{
+			"name": "Havptmance",
+			"to_center": true,
+			"id": "604041"
+		},
+		{
+			"name": "Hladilniška",
+			"to_center": true,
+			"id": "204311"
+		},
+		{
+			"name": "Hlebš",
+			"to_center": true,
+			"id": "405081"
+		},
+		{
+			"name": "Horjul",
+			"to_center": true,
+			"id": "716011"
+		},
+		{
+			"name": "Hrastenice",
+			"to_center": true,
+			"id": "725071"
+		},
+		{
+			"name": "Hrastje",
+			"to_center": true,
+			"id": "204061"
+		},
+		{
+			"name": "Hrastje pri Golem",
+			"to_center": true,
+			"id": "605071"
+		},
+		{
+			"name": "Hraše center",
+			"to_center": true,
+			"id": "816011"
+		},
+		{
+			"name": "Hraše vzhod",
+			"to_center": true,
+			"id": "816021"
+		},
+		{
+			"name": "Hraše zahod",
+			"to_center": true,
+			"id": "815131"
+		},
+		{
+			"name": "Hruševo",
+			"to_center": true,
+			"id": "725051"
+		},
+		{
+			"name": "Hruševska",
+			"to_center": true,
+			"id": "404111"
+		},
+		{
+			"name": "Hrušica",
+			"to_center": true,
+			"id": "404011"
+		},
+		{
+			"name": "Hrušica/Kalcah",
+			"to_center": true,
+			"id": "707033"
+		},
+		{
+			"name": "Hrvatski trg",
+			"to_center": true,
+			"id": "402011"
+		},
+		{
+			"name": "I. Kobilca",
+			"to_center": true,
+			"id": "703211"
+		},
+		{
+			"name": "I.C. Šiška",
+			"to_center": true,
+			"id": "103231"
+		},
+		{
+			"name": "IMP",
+			"to_center": true,
+			"id": "804161"
+		},
+		{
+			"name": "Ig",
+			"to_center": true,
+			"id": "625021"
+		},
+		{
+			"name": "Ig AP",
+			"to_center": true,
+			"id": "605011"
+		},
+		{
+			"name": "Ig Petrol",
+			"to_center": true,
+			"id": "605081"
+		},
+		{
+			"name": "Ig mizarstvo",
+			"to_center": true,
+			"id": "605021"
+		},
+		{
+			"name": "Ilirska",
+			"to_center": true,
+			"id": "501011"
+		},
+		{
+			"name": "Ivančna Gorica",
+			"to_center": true,
+			"id": "507031"
+		},
+		{
+			"name": "Ivančna Gorica ŠC",
+			"to_center": true,
+			"id": "507071"
+		},
+		{
+			"name": "IŠKA VAS obrač.",
+			"to_center": true,
+			"id": "626011"
+		},
+		{
+			"name": "Iška Loka",
+			"to_center": true,
+			"id": "615011"
+		},
+		{
+			"name": "Iška vas",
+			"to_center": true,
+			"id": "625051"
+		},
+		{
+			"name": "Iška vas šola",
+			"to_center": true,
+			"id": "625061"
+		},
+		{
+			"name": "Ižanska",
+			"to_center": true,
+			"id": "603121"
+		},
+		{
+			"name": "Ižica",
+			"to_center": true,
+			"id": "604061"
+		},
+		{
+			"name": "JEZERO",
+			"to_center": true,
+			"id": "745061"
+		},
+		{
+			"name": "JEŽICA",
+			"to_center": true,
+			"id": "104033"
+		},
+		{
+			"name": "JEŽICA P+R",
+			"to_center": true,
+			"id": "104321"
+		},
+		{
+			"name": "Jadranska",
+			"to_center": true,
+			"id": "603011"
+		},
+		{
+			"name": "Jamnikarjeva",
+			"to_center": true,
+			"id": "703031"
+		},
+		{
+			"name": "Jana Husa",
+			"to_center": true,
+			"id": "403011"
+		},
+		{
+			"name": "Japelj",
+			"to_center": true,
+			"id": "744021"
+		},
+		{
+			"name": "Jarše",
+			"to_center": true,
+			"id": "203091"
+		},
+		{
+			"name": "Javor",
+			"to_center": true,
+			"id": "405011"
+		},
+		{
+			"name": "Javor-2",
+			"to_center": true,
+			"id": "425011"
+		},
+		{
+			"name": "Ježa",
+			"to_center": true,
+			"id": "104181"
+		},
+		{
+			"name": "Ježica",
+			"to_center": true,
+			"id": "104031"
+		},
+		{
+			"name": "Ježkova",
+			"to_center": true,
+			"id": "703201"
+		},
+		{
+			"name": "Jurečič",
+			"to_center": true,
+			"id": "614111"
+		},
+		{
+			"name": "Jurčkova",
+			"to_center": true,
+			"id": "504041"
+		},
+		{
+			"name": "KAMNA GORICA",
+			"to_center": true,
+			"id": "803181"
+		},
+		{
+			"name": "KOLODVOR",
+			"to_center": true,
+			"id": "300015"
+		},
+		{
+			"name": "KPL",
+			"to_center": true,
+			"id": "404051"
+		},
+		{
+			"name": "KS. Pirniče",
+			"to_center": true,
+			"id": "815031"
+		},
+		{
+			"name": "Kajakaška",
+			"to_center": true,
+			"id": "815111"
+		},
+		{
+			"name": "Kal/Ambrusu",
+			"to_center": true,
+			"id": "528131"
+		},
+		{
+			"name": "Kal/Ambrusu K",
+			"to_center": true,
+			"id": "528121"
+		},
+		{
+			"name": "Kalce/Logatcu",
+			"to_center": true,
+			"id": "707031"
+		},
+		{
+			"name": "Kališnikov trg",
+			"to_center": true,
+			"id": "104021"
+		},
+		{
+			"name": "Kamni Vrh",
+			"to_center": true,
+			"id": "528141"
+		},
+		{
+			"name": "Kamnik pod Krimom",
+			"to_center": true,
+			"id": "745091"
+		},
+		{
+			"name": "Kamnik pod Krimom K.",
+			"to_center": true,
+			"id": "745081"
+		},
+		{
+			"name": "Kamnogoriška",
+			"to_center": true,
+			"id": "804391"
+		},
+		{
+			"name": "Kardeljeva ploščad",
+			"to_center": true,
+			"id": "102091"
+		},
+		{
+			"name": "Kavčičeva",
+			"to_center": true,
+			"id": "203051"
+		},
+		{
+			"name": "Kašeljska",
+			"to_center": true,
+			"id": "304161"
+		},
+		{
+			"name": "Kino Šiška",
+			"to_center": true,
+			"id": "802021"
+		},
+		{
+			"name": "Klinični center",
+			"to_center": true,
+			"id": "402031"
+		},
+		{
+			"name": "Kneza Koclja",
+			"to_center": true,
+			"id": "803081"
+		},
+		{
+			"name": "Kodeljevo",
+			"to_center": true,
+			"id": "403021"
+		},
+		{
+			"name": "Kodeljevo",
+			"to_center": true,
+			"id": "403023"
+		},
+		{
+			"name": "Kodrova",
+			"to_center": true,
+			"id": "203101"
+		},
+		{
+			"name": "Kolodvor",
+			"to_center": true,
+			"id": "300011"
+		},
+		{
+			"name": "Kolodvor Črnuče",
+			"to_center": true,
+			"id": "104101"
+		},
+		{
+			"name": "Komanija",
+			"to_center": true,
+			"id": "715021"
+		},
+		{
+			"name": "Komenda vas",
+			"to_center": true,
+			"id": "106011"
+		},
+		{
+			"name": "Komenda Š",
+			"to_center": true,
+			"id": "999201"
+		},
+		{
+			"name": "Kompas",
+			"to_center": true,
+			"id": "803031"
+		},
+		{
+			"name": "Koprska",
+			"to_center": true,
+			"id": "603041"
+		},
+		{
+			"name": "Koseze",
+			"to_center": true,
+			"id": "803141"
+		},
+		{
+			"name": "Koseze",
+			"to_center": true,
+			"id": "826111"
+		},
+		{
+			"name": "Koseze Stare",
+			"to_center": true,
+			"id": "826121"
+		},
+		{
+			"name": "Kosmačeva",
+			"to_center": true,
+			"id": "804081"
+		},
+		{
+			"name": "Kot",
+			"to_center": true,
+			"id": "625041"
+		},
+		{
+			"name": "Kovinarska",
+			"to_center": true,
+			"id": "803211"
+		},
+		{
+			"name": "Kozarje",
+			"to_center": true,
+			"id": "704101"
+		},
+		{
+			"name": "Kozarje GD",
+			"to_center": true,
+			"id": "714011"
+		},
+		{
+			"name": "Kozarje gmajna",
+			"to_center": true,
+			"id": "714021"
+		},
+		{
+			"name": "Kozler",
+			"to_center": true,
+			"id": "614081"
+		},
+		{
+			"name": "Kožljevec",
+			"to_center": true,
+			"id": "535061"
+		},
+		{
+			"name": "Kranjčeva",
+			"to_center": true,
+			"id": "203211"
+		},
+		{
+			"name": "Krimska",
+			"to_center": true,
+			"id": "603031"
+		},
+		{
+			"name": "Krivec",
+			"to_center": true,
+			"id": "804411"
+		},
+		{
+			"name": "Križanke",
+			"to_center": true,
+			"id": "602061"
+		},
+		{
+			"name": "Križišče Sostro",
+			"to_center": true,
+			"id": "404083"
+		},
+		{
+			"name": "Križišče Sostro",
+			"to_center": true,
+			"id": "404081"
+		},
+		{
+			"name": "Krožna pot",
+			"to_center": true,
+			"id": "404101"
+		},
+		{
+			"name": "Kurešček K",
+			"to_center": true,
+			"id": "606011"
+		},
+		{
+			"name": "Kužljevec K",
+			"to_center": true,
+			"id": "528111"
+		},
+		{
+			"name": "LETALIŠKA",
+			"to_center": true,
+			"id": "204051"
+		},
+		{
+			"name": "LITOSTROJ",
+			"to_center": true,
+			"id": "103201"
+		},
+		{
+			"name": "LITOSTROJSKA",
+			"to_center": true,
+			"id": "803053"
+		},
+		{
+			"name": "Lahovče",
+			"to_center": true,
+			"id": "106031"
+		},
+		{
+			"name": "Lanišče",
+			"to_center": true,
+			"id": "406071"
+		},
+		{
+			"name": "Lavrica",
+			"to_center": true,
+			"id": "504091"
+		},
+		{
+			"name": "Lavrica pri Malči",
+			"to_center": true,
+			"id": "504081"
+		},
+		{
+			"name": "Ledena dvorana Zalog",
+			"to_center": true,
+			"id": "204301"
+		},
+		{
+			"name": "Leskoškova",
+			"to_center": true,
+			"id": "204011"
+		},
+		{
+			"name": "Lesno Brdo",
+			"to_center": true,
+			"id": "705041"
+		},
+		{
+			"name": "Letališče Brnik",
+			"to_center": true,
+			"id": "107011"
+		},
+		{
+			"name": "Ligojna K",
+			"to_center": true,
+			"id": "776041"
+		},
+		{
+			"name": "Lipe",
+			"to_center": true,
+			"id": "614071"
+		},
+		{
+			"name": "Litostroj",
+			"to_center": true,
+			"id": "103203"
+		},
+		{
+			"name": "Litostrojska",
+			"to_center": true,
+			"id": "803051"
+		},
+		{
+			"name": "Livada",
+			"to_center": true,
+			"id": "603091"
+		},
+		{
+			"name": "Ljubgojna",
+			"to_center": true,
+			"id": "716021"
+		},
+		{
+			"name": "Ljubljana AP",
+			"to_center": true,
+			"id": "300013"
+		},
+		{
+			"name": "Ljubljanske brigade",
+			"to_center": true,
+			"id": "803061"
+		},
+		{
+			"name": "Log",
+			"to_center": true,
+			"id": "603251"
+		},
+		{
+			"name": "Log pri Brez.Mole",
+			"to_center": true,
+			"id": "705021"
+		},
+		{
+			"name": "Log pri Brez.vas",
+			"to_center": true,
+			"id": "705031"
+		},
+		{
+			"name": "Log pri Polh.G.",
+			"to_center": true,
+			"id": "725081"
+		},
+		{
+			"name": "Logatec",
+			"to_center": true,
+			"id": "707021"
+		},
+		{
+			"name": "Logatec Krpan",
+			"to_center": true,
+			"id": "706041"
+		},
+		{
+			"name": "Loka pri Mengšu",
+			"to_center": true,
+			"id": "105041"
+		},
+		{
+			"name": "Lukovica pri Brezovici",
+			"to_center": true,
+			"id": "704091"
+		},
+		{
+			"name": "Lutkovno gl.",
+			"to_center": true,
+			"id": "501031"
+		},
+		{
+			"name": "M. Lipljene",
+			"to_center": true,
+			"id": "546081"
+		},
+		{
+			"name": "M. St. vas",
+			"to_center": true,
+			"id": "535021"
+		},
+		{
+			"name": "M. vas pri Grosupljem",
+			"to_center": true,
+			"id": "546051"
+		},
+		{
+			"name": "M.Hudo",
+			"to_center": true,
+			"id": "507021"
+		},
+		{
+			"name": "M.Ilova GORA",
+			"to_center": true,
+			"id": "526061"
+		},
+		{
+			"name": "M.Mlačevo",
+			"to_center": true,
+			"id": "526011"
+		},
+		{
+			"name": "M.Račna",
+			"to_center": true,
+			"id": "526041"
+		},
+		{
+			"name": "MALI LIPOGLAV",
+			"to_center": true,
+			"id": "415061"
+		},
+		{
+			"name": "MEDVODE",
+			"to_center": true,
+			"id": "805023"
+		},
+		{
+			"name": "MEDVODE nas.",
+			"to_center": true,
+			"id": "805041"
+		},
+		{
+			"name": "MESTNI LOG",
+			"to_center": true,
+			"id": "604031"
+		},
+		{
+			"name": "Mali vrh",
+			"to_center": true,
+			"id": "505041"
+		},
+		{
+			"name": "Marinča vas",
+			"to_center": true,
+			"id": "528041"
+		},
+		{
+			"name": "Maroltova",
+			"to_center": true,
+			"id": "103161"
+		},
+		{
+			"name": "Martinova",
+			"to_center": true,
+			"id": "804131"
+		},
+		{
+			"name": "Matena",
+			"to_center": true,
+			"id": "615031"
+		},
+		{
+			"name": "Mačkov graben",
+			"to_center": true,
+			"id": "736011"
+		},
+		{
+			"name": "Medno",
+			"to_center": true,
+			"id": "804071"
+		},
+		{
+			"name": "Medvode",
+			"to_center": true,
+			"id": "805021"
+		},
+		{
+			"name": "Medvoška a.p.",
+			"to_center": true,
+			"id": "805011"
+		},
+		{
+			"name": "Mengeš Lovec",
+			"to_center": true,
+			"id": "105061"
+		},
+		{
+			"name": "Mengeš Pavovec",
+			"to_center": true,
+			"id": "105071"
+		},
+		{
+			"name": "Mengeš Petrol",
+			"to_center": true,
+			"id": "105051"
+		},
+		{
+			"name": "Mercator",
+			"to_center": true,
+			"id": "102081"
+		},
+		{
+			"name": "Mihov štradon",
+			"to_center": true,
+			"id": "503051"
+		},
+		{
+			"name": "Mirje",
+			"to_center": true,
+			"id": "602071"
+		},
+		{
+			"name": "Mokrška",
+			"to_center": true,
+			"id": "603201"
+		},
+		{
+			"name": "Moste Petrol",
+			"to_center": true,
+			"id": "105091"
+		},
+		{
+			"name": "Mostiček",
+			"to_center": true,
+			"id": "745031"
+		},
+		{
+			"name": "Mostovna",
+			"to_center": true,
+			"id": "102061"
+		},
+		{
+			"name": "Mrzlo polje",
+			"to_center": true,
+			"id": "567011"
+		},
+		{
+			"name": "Muljava",
+			"to_center": true,
+			"id": "567041"
+		},
+		{
+			"name": "Murgle",
+			"to_center": true,
+			"id": "603061"
+		},
+		{
+			"name": "Murkova",
+			"to_center": true,
+			"id": "804211"
+		},
+		{
+			"name": "N. STOŽICE P+R",
+			"to_center": true,
+			"id": "103081"
+		},
+		{
+			"name": "NOT. GORICE",
+			"to_center": true,
+			"id": "745043"
+		},
+		{
+			"name": "NOVE JARŠE",
+			"to_center": true,
+			"id": "203171"
+		},
+		{
+			"name": "NS RUDNIK",
+			"to_center": true,
+			"id": "504061"
+		},
+		{
+			"name": "NS Rudnik",
+			"to_center": true,
+			"id": "504051"
+		},
+		{
+			"name": "Na Gmajni",
+			"to_center": true,
+			"id": "615021"
+		},
+		{
+			"name": "Na Gmajnici",
+			"to_center": true,
+			"id": "704061"
+		},
+		{
+			"name": "Na Pili",
+			"to_center": true,
+			"id": "999901"
+		},
+		{
+			"name": "Na jami",
+			"to_center": true,
+			"id": "802031"
+		},
+		{
+			"name": "Na klancu",
+			"to_center": true,
+			"id": "804091"
+		},
+		{
+			"name": "Na Žalah",
+			"to_center": true,
+			"id": "203231"
+		},
+		{
+			"name": "Nadgorica",
+			"to_center": true,
+			"id": "204131"
+		},
+		{
+			"name": "Nasovče",
+			"to_center": true,
+			"id": "106021"
+		},
+		{
+			"name": "Notranje Gorice",
+			"to_center": true,
+			"id": "745041"
+		},
+		{
+			"name": "Nova vas/Žireh",
+			"to_center": true,
+			"id": "999821"
+		},
+		{
+			"name": "Novaki",
+			"to_center": true,
+			"id": "746051"
+		},
+		{
+			"name": "Nove Jarše",
+			"to_center": true,
+			"id": "203161"
+		},
+		{
+			"name": "Nove Žale",
+			"to_center": true,
+			"id": "203071"
+		},
+		{
+			"name": "Novo Polje",
+			"to_center": true,
+			"id": "204101"
+		},
+		{
+			"name": "Novo naselje",
+			"to_center": true,
+			"id": "805031"
+		},
+		{
+			"name": "Noč",
+			"to_center": true,
+			"id": "999851"
+		},
+		{
+			"name": "Nusdorferjeva",
+			"to_center": true,
+			"id": "303081"
+		},
+		{
+			"name": "Ob daljnovodu",
+			"to_center": true,
+			"id": "804111"
+		},
+		{
+			"name": "Obrtna cona",
+			"to_center": true,
+			"id": "104081"
+		},
+		{
+			"name": "Omersova",
+			"to_center": true,
+			"id": "804201"
+		},
+		{
+			"name": "Opekarska",
+			"to_center": true,
+			"id": "603171"
+		},
+		{
+			"name": "Orel/Žireh",
+			"to_center": true,
+			"id": "999891"
+		},
+		{
+			"name": "Osenjakova",
+			"to_center": true,
+			"id": "304021"
+		},
+		{
+			"name": "Ostrovrhar",
+			"to_center": true,
+			"id": "204361"
+		},
+		{
+			"name": "Oval",
+			"to_center": true,
+			"id": "804341"
+		},
+		{
+			"name": "OŠ Jezero",
+			"to_center": true,
+			"id": "745101"
+		},
+		{
+			"name": "OŠ Maksa Pečarja",
+			"to_center": true,
+			"id": "104151"
+		},
+		{
+			"name": "OŠ Sostro",
+			"to_center": true,
+			"id": "404161"
+		},
+		{
+			"name": "PODUTIK",
+			"to_center": true,
+			"id": "804221"
+		},
+		{
+			"name": "POLHOV GRADEC",
+			"to_center": true,
+			"id": "726011"
+		},
+		{
+			"name": "POLICA/VIŠ. G.",
+			"to_center": true,
+			"id": "535091"
+		},
+		{
+			"name": "PRŽAN",
+			"to_center": true,
+			"id": "804181"
+		},
+		{
+			"name": "Pako",
+			"to_center": true,
+			"id": "756031"
+		},
+		{
+			"name": "Pance",
+			"to_center": true,
+			"id": "415051"
+		},
+		{
+			"name": "Parmova",
+			"to_center": true,
+			"id": "101021"
+		},
+		{
+			"name": "Pece K",
+			"to_center": true,
+			"id": "546041"
+		},
+		{
+			"name": "Perovo",
+			"to_center": true,
+			"id": "535011"
+		},
+		{
+			"name": "Peruzzijeva",
+			"to_center": true,
+			"id": "503041"
+		},
+		{
+			"name": "Peruzzijeva-2",
+			"to_center": true,
+			"id": "504191"
+		},
+		{
+			"name": "Petačev graben",
+			"to_center": true,
+			"id": "736021"
+		},
+		{
+			"name": "Petrol",
+			"to_center": true,
+			"id": "304111"
+		},
+		{
+			"name": "Peč pri Polici",
+			"to_center": true,
+			"id": "535081"
+		},
+		{
+			"name": "Pijava Gorica",
+			"to_center": true,
+			"id": "515031"
+		},
+		{
+			"name": "Plečnikova cerkev",
+			"to_center": true,
+			"id": "614011"
+		},
+		{
+			"name": "Plešivica/Logu grad",
+			"to_center": true,
+			"id": "765021"
+		},
+		{
+			"name": "Plešivica/Logu spomenik",
+			"to_center": true,
+			"id": "765011"
+		},
+		{
+			"name": "Plešičeva",
+			"to_center": true,
+			"id": "803121"
+		},
+		{
+			"name": "Pod Debnim vrhom",
+			"to_center": true,
+			"id": "204281"
+		},
+		{
+			"name": "Pod Golovcem",
+			"to_center": true,
+			"id": "403031"
+		},
+		{
+			"name": "Pod Hribom",
+			"to_center": true,
+			"id": "504071"
+		},
+		{
+			"name": "Pod Kamno Gorico",
+			"to_center": true,
+			"id": "804193"
+		},
+		{
+			"name": "Pod Kamno gorico",
+			"to_center": true,
+			"id": "804191"
+		},
+		{
+			"name": "Pod Rožnikom",
+			"to_center": true,
+			"id": "702011"
+		},
+		{
+			"name": "Pod Sivnikom",
+			"to_center": true,
+			"id": "404171"
+		},
+		{
+			"name": "Pod Urhom",
+			"to_center": true,
+			"id": "404141"
+		},
+		{
+			"name": "Pod gozdom",
+			"to_center": true,
+			"id": "505111"
+		},
+		{
+			"name": "Podgora",
+			"to_center": true,
+			"id": "804031"
+		},
+		{
+			"name": "Podgora pri Verdu",
+			"to_center": true,
+			"id": "756111"
+		},
+		{
+			"name": "Podgorica",
+			"to_center": true,
+			"id": "204221"
+		},
+		{
+			"name": "Podgozd",
+			"to_center": true,
+			"id": "605041"
+		},
+		{
+			"name": "Podgrad",
+			"to_center": true,
+			"id": "204261"
+		},
+		{
+			"name": "Podlesec/Žireh",
+			"to_center": true,
+			"id": "999881"
+		},
+		{
+			"name": "Podlipa",
+			"to_center": true,
+			"id": "776111"
+		},
+		{
+			"name": "Podlipa Kovtrov z.",
+			"to_center": true,
+			"id": "776121"
+		},
+		{
+			"name": "Podlipa Podlogar",
+			"to_center": true,
+			"id": "776081"
+		},
+		{
+			"name": "Podlipa Stope",
+			"to_center": true,
+			"id": "776061"
+		},
+		{
+			"name": "Podlipa Vičič",
+			"to_center": true,
+			"id": "776101"
+		},
+		{
+			"name": "Podlipa Zukancov z.",
+			"to_center": true,
+			"id": "777021"
+		},
+		{
+			"name": "Podlipa hrast",
+			"to_center": true,
+			"id": "776071"
+		},
+		{
+			"name": "Podlipa pri tran.",
+			"to_center": true,
+			"id": "776091"
+		},
+		{
+			"name": "Podlipa Županov z.",
+			"to_center": true,
+			"id": "777011"
+		},
+		{
+			"name": "Podlipoglav",
+			"to_center": true,
+			"id": "415021"
+		},
+		{
+			"name": "Podmilščakova",
+			"to_center": true,
+			"id": "102051"
+		},
+		{
+			"name": "Podmornica",
+			"to_center": true,
+			"id": "703051"
+		},
+		{
+			"name": "Podolnica",
+			"to_center": true,
+			"id": "715121"
+		},
+		{
+			"name": "Podpeč",
+			"to_center": true,
+			"id": "745051"
+		},
+		{
+			"name": "Podpeč 1",
+			"to_center": true,
+			"id": "745111"
+		},
+		{
+			"name": "Podpeč/Lj. Jereb",
+			"to_center": true,
+			"id": "745071"
+		},
+		{
+			"name": "Podreber/Polh.G.",
+			"to_center": true,
+			"id": "725121"
+		},
+		{
+			"name": "Podsmreka GD",
+			"to_center": true,
+			"id": "715031"
+		},
+		{
+			"name": "Podsmreka Rotar",
+			"to_center": true,
+			"id": "715041"
+		},
+		{
+			"name": "Podsmreka pri Gorjancu",
+			"to_center": true,
+			"id": "715051"
+		},
+		{
+			"name": "Podsmreka pri Višnji G.",
+			"to_center": true,
+			"id": "506041"
+		},
+		{
+			"name": "Podvozna pot",
+			"to_center": true,
+			"id": "704181"
+		},
+		{
+			"name": "Pohorskega bataljona",
+			"to_center": true,
+			"id": "103061"
+		},
+		{
+			"name": "Pokopališka",
+			"to_center": true,
+			"id": "203011"
+		},
+		{
+			"name": "Polanškova",
+			"to_center": true,
+			"id": "104121"
+		},
+		{
+			"name": "Poliklinika",
+			"to_center": true,
+			"id": "402021"
+		},
+		{
+			"name": "Poljanska",
+			"to_center": true,
+			"id": "502011"
+		},
+		{
+			"name": "Polje",
+			"to_center": true,
+			"id": "304071"
+		},
+		{
+			"name": "Polje obračališče",
+			"to_center": true,
+			"id": "825031"
+		},
+		{
+			"name": "Polje-kolodvor",
+			"to_center": true,
+			"id": "304081"
+		},
+		{
+			"name": "Polževo K",
+			"to_center": true,
+			"id": "507011"
+		},
+		{
+			"name": "Ponova vas",
+			"to_center": true,
+			"id": "546031"
+		},
+		{
+			"name": "Pot Rdečega križa",
+			"to_center": true,
+			"id": "703191"
+		},
+		{
+			"name": "Pot na Fužine",
+			"to_center": true,
+			"id": "303051"
+		},
+		{
+			"name": "Pot na Rakovo jelšo",
+			"to_center": true,
+			"id": "603071"
+		},
+		{
+			"name": "Pot v Hrastovec",
+			"to_center": true,
+			"id": "104141"
+		},
+		{
+			"name": "Pot v Smrečje",
+			"to_center": true,
+			"id": "104131"
+		},
+		{
+			"name": "Pot v mejah",
+			"to_center": true,
+			"id": "204291"
+		},
+		{
+			"name": "Povodje",
+			"to_center": true,
+			"id": "825011"
+		},
+		{
+			"name": "Pošta",
+			"to_center": true,
+			"id": "601011"
+		},
+		{
+			"name": "Pošta Dobrunje",
+			"to_center": true,
+			"id": "404041"
+		},
+		{
+			"name": "Praproče pri Temenici",
+			"to_center": true,
+			"id": "508071"
+		},
+		{
+			"name": "Predole K",
+			"to_center": true,
+			"id": "526021"
+		},
+		{
+			"name": "Predstruge",
+			"to_center": true,
+			"id": "517031"
+		},
+		{
+			"name": "Preglov trg",
+			"to_center": true,
+			"id": "304011"
+		},
+		{
+			"name": "Prekmurska",
+			"to_center": true,
+			"id": "202021"
+		},
+		{
+			"name": "Preserje pod Krimom",
+			"to_center": true,
+			"id": "746011"
+		},
+		{
+			"name": "Preska",
+			"to_center": true,
+			"id": "815151"
+		},
+		{
+			"name": "Prevalje pod Krimom",
+			"to_center": true,
+			"id": "756011"
+		},
+		{
+			"name": "Prežganje",
+			"to_center": true,
+			"id": "406031"
+		},
+		{
+			"name": "Prežganje šola",
+			"to_center": true,
+			"id": "406041"
+		},
+		{
+			"name": "Pri Dogonivar",
+			"to_center": true,
+			"id": "415071"
+		},
+		{
+			"name": "Pri Dolencu",
+			"to_center": true,
+			"id": "415091"
+		},
+		{
+			"name": "Pri Maranzu",
+			"to_center": true,
+			"id": "604051"
+		},
+		{
+			"name": "Pri Poku",
+			"to_center": true,
+			"id": "704081"
+		},
+		{
+			"name": "Primožev ovinek",
+			"to_center": true,
+			"id": "415081"
+		},
+		{
+			"name": "Primožičeva",
+			"to_center": true,
+			"id": "104113"
+		},
+		{
+			"name": "Privoz",
+			"to_center": true,
+			"id": "602111"
+		},
+		{
+			"name": "Prušnikova",
+			"to_center": true,
+			"id": "804021"
+		},
+		{
+			"name": "Pržanec",
+			"to_center": true,
+			"id": "804231"
+		},
+		{
+			"name": "Puhova",
+			"to_center": true,
+			"id": "103041"
+		},
+		{
+			"name": "RAKITNA obrač.",
+			"to_center": true,
+			"id": "746063"
+		},
+		{
+			"name": "RUDNIK",
+			"to_center": true,
+			"id": "504031"
+		},
+		{
+			"name": "Radna",
+			"to_center": true,
+			"id": "704071"
+		},
+		{
+			"name": "Radohova vas/Šentvidu",
+			"to_center": true,
+			"id": "508041"
+		},
+		{
+			"name": "Rakitna",
+			"to_center": true,
+			"id": "746061"
+		},
+		{
+			"name": "Rakovnik",
+			"to_center": true,
+			"id": "503021"
+		},
+		{
+			"name": "Rakovnik pri Sori",
+			"to_center": true,
+			"id": "815211"
+		},
+		{
+			"name": "Rast",
+			"to_center": true,
+			"id": "403061"
+		},
+		{
+			"name": "Razdrto",
+			"to_center": true,
+			"id": "505051"
+		},
+		{
+			"name": "Razori K",
+			"to_center": true,
+			"id": "714041"
+		},
+		{
+			"name": "Razori Rogovilc",
+			"to_center": true,
+			"id": "714031"
+		},
+		{
+			"name": "Razstavišče",
+			"to_center": true,
+			"id": "100021"
+		},
+		{
+			"name": "Račeva",
+			"to_center": true,
+			"id": "999841"
+		},
+		{
+			"name": "Rašica",
+			"to_center": true,
+			"id": "104211"
+		},
+		{
+			"name": "Reaktor",
+			"to_center": true,
+			"id": "204161"
+		},
+		{
+			"name": "Reber pri Škofljici",
+			"to_center": true,
+			"id": "505021"
+		},
+		{
+			"name": "Repnje Benk",
+			"to_center": true,
+			"id": "825041"
+		},
+		{
+			"name": "Repnje kapelica",
+			"to_center": true,
+			"id": "825061"
+		},
+		{
+			"name": "Repnje samostan",
+			"to_center": true,
+			"id": "825051"
+		},
+		{
+			"name": "Rogovilc",
+			"to_center": true,
+			"id": "104111"
+		},
+		{
+			"name": "Rožičeva",
+			"to_center": true,
+			"id": "203021"
+		},
+		{
+			"name": "Rožna dolina",
+			"to_center": true,
+			"id": "703011"
+		},
+		{
+			"name": "Rudnik",
+			"to_center": true,
+			"id": "504033"
+		},
+		{
+			"name": "Rusjanov trg",
+			"to_center": true,
+			"id": "304031"
+		},
+		{
+			"name": "Ruski car",
+			"to_center": true,
+			"id": "103131"
+		},
+		{
+			"name": "Rutar",
+			"to_center": true,
+			"id": "614061"
+		},
+		{
+			"name": "SAVLJE",
+			"to_center": true,
+			"id": "104011"
+		},
+		{
+			"name": "SORA obrač.",
+			"to_center": true,
+			"id": "816051"
+		},
+		{
+			"name": "SOSTRO",
+			"to_center": true,
+			"id": "404091"
+		},
+		{
+			"name": "STANEŽIČE P+R",
+			"to_center": true,
+			"id": "804241"
+		},
+		{
+			"name": "STANEŽIČE nas.",
+			"to_center": true,
+			"id": "804361"
+		},
+		{
+			"name": "Sadinja vas",
+			"to_center": true,
+			"id": "415011"
+		},
+		{
+			"name": "Samova",
+			"to_center": true,
+			"id": "102011"
+		},
+		{
+			"name": "Sap",
+			"to_center": true,
+			"id": "505071"
+		},
+		{
+			"name": "Saturnus",
+			"to_center": true,
+			"id": "204201"
+		},
+		{
+			"name": "Sava",
+			"to_center": true,
+			"id": "104051"
+		},
+		{
+			"name": "Savske stolpnice",
+			"to_center": true,
+			"id": "202031"
+		},
+		{
+			"name": "Savsko naselje",
+			"to_center": true,
+			"id": "202041"
+		},
+		{
+			"name": "Selo",
+			"to_center": true,
+			"id": "415041"
+		},
+		{
+			"name": "Selo Mali Dunaj",
+			"to_center": true,
+			"id": "826101"
+		},
+		{
+			"name": "Selo pri Radohovi vasi",
+			"to_center": true,
+			"id": "508061"
+		},
+		{
+			"name": "Selo pri Vodicah",
+			"to_center": true,
+			"id": "826051"
+		},
+		{
+			"name": "Silos",
+			"to_center": true,
+			"id": "304131"
+		},
+		{
+			"name": "Sinja Gorica",
+			"to_center": true,
+			"id": "705061"
+		},
+		{
+			"name": "Sinja Gorica avt.",
+			"to_center": true,
+			"id": "705071"
+		},
+		{
+			"name": "Skaručna",
+			"to_center": true,
+			"id": "825021"
+		},
+		{
+			"name": "Slovenija avto",
+			"to_center": true,
+			"id": "803011"
+		},
+		{
+			"name": "Slovenijales",
+			"to_center": true,
+			"id": "204111"
+		},
+		{
+			"name": "Smelt",
+			"to_center": true,
+			"id": "103071"
+		},
+		{
+			"name": "Smlednik šola",
+			"to_center": true,
+			"id": "815121"
+		},
+		{
+			"name": "Smolnik Praprotnik",
+			"to_center": true,
+			"id": "737011"
+		},
+		{
+			"name": "Smolnik Setnik",
+			"to_center": true,
+			"id": "736051"
+		},
+		{
+			"name": "Smolnik Zalog",
+			"to_center": true,
+			"id": "736041"
+		},
+		{
+			"name": "Smolnik nad Hribom",
+			"to_center": true,
+			"id": "737021"
+		},
+		{
+			"name": "Smolnik žaga",
+			"to_center": true,
+			"id": "736031"
+		},
+		{
+			"name": "Smrekarjevo",
+			"to_center": true,
+			"id": "406051"
+		},
+		{
+			"name": "Smrečje/Vrh.pri Kapelici",
+			"to_center": true,
+			"id": "777051"
+		},
+		{
+			"name": "Smrečje/Vrhniko",
+			"to_center": true,
+			"id": "777061"
+		},
+		{
+			"name": "Smrečje/Vrhniko Samija",
+			"to_center": true,
+			"id": "777031"
+		},
+		{
+			"name": "Smrečje/Vrhniko pri Mihu",
+			"to_center": true,
+			"id": "777041"
+		},
+		{
+			"name": "Smrečje/Vrhniko vrh",
+			"to_center": true,
+			"id": "999911"
+		},
+		{
+			"name": "Smrjene",
+			"to_center": true,
+			"id": "515041"
+		},
+		{
+			"name": "Smrjene 1",
+			"to_center": true,
+			"id": "515091"
+		},
+		{
+			"name": "Smrjene 2",
+			"to_center": true,
+			"id": "515081"
+		},
+		{
+			"name": "Smrjene 3",
+			"to_center": true,
+			"id": "515071"
+		},
+		{
+			"name": "Smrjene 4",
+			"to_center": true,
+			"id": "515061"
+		},
+		{
+			"name": "Sneberje",
+			"to_center": true,
+			"id": "204071"
+		},
+		{
+			"name": "Sneberska",
+			"to_center": true,
+			"id": "204321"
+		},
+		{
+			"name": "Snoj",
+			"to_center": true,
+			"id": "614091"
+		},
+		{
+			"name": "Sora",
+			"to_center": true,
+			"id": "816041"
+		},
+		{
+			"name": "Sostro",
+			"to_center": true,
+			"id": "404093"
+		},
+		{
+			"name": "Sp. Brnik",
+			"to_center": true,
+			"id": "106051"
+		},
+		{
+			"name": "Sp. Pirniče",
+			"to_center": true,
+			"id": "815021"
+		},
+		{
+			"name": "Sp. Slivnica",
+			"to_center": true,
+			"id": "536031"
+		},
+		{
+			"name": "Spar",
+			"to_center": true,
+			"id": "803171"
+		},
+		{
+			"name": "Spodnji Rudnik",
+			"to_center": true,
+			"id": "504021"
+		},
+		{
+			"name": "Sr.vas pri Polh.G.",
+			"to_center": true,
+			"id": "725131"
+		},
+		{
+			"name": "Središka",
+			"to_center": true,
+			"id": "202091"
+		},
+		{
+			"name": "St.Vrhnika K",
+			"to_center": true,
+			"id": "776031"
+		},
+		{
+			"name": "St.trg/Višnji G.",
+			"to_center": true,
+			"id": "506031"
+		},
+		{
+			"name": "Stadion",
+			"to_center": true,
+			"id": "102041"
+		},
+		{
+			"name": "Staje",
+			"to_center": true,
+			"id": "625031"
+		},
+		{
+			"name": "Stanežiče",
+			"to_center": true,
+			"id": "804061"
+		},
+		{
+			"name": "Stara Ježica",
+			"to_center": true,
+			"id": "104371"
+		},
+		{
+			"name": "Stara cerkev",
+			"to_center": true,
+			"id": "802011"
+		},
+		{
+			"name": "Stara pošta",
+			"to_center": true,
+			"id": "505101"
+		},
+		{
+			"name": "Stična K",
+			"to_center": true,
+			"id": "507051"
+		},
+		{
+			"name": "Stična KZ",
+			"to_center": true,
+			"id": "507041"
+		},
+		{
+			"name": "Stožice",
+			"to_center": true,
+			"id": "103101"
+		},
+		{
+			"name": "Strahomer",
+			"to_center": true,
+			"id": "626021"
+		},
+		{
+			"name": "Streliška",
+			"to_center": true,
+			"id": "502031"
+		},
+		{
+			"name": "Strelišče",
+			"to_center": true,
+			"id": "503011"
+		},
+		{
+			"name": "Studenec",
+			"to_center": true,
+			"id": "304061"
+		},
+		{
+			"name": "Svetje",
+			"to_center": true,
+			"id": "835031"
+		},
+		{
+			"name": "Svetčeva",
+			"to_center": true,
+			"id": "702031"
+		},
+		{
+			"name": "TOMAČEVO",
+			"to_center": true,
+			"id": "203081"
+		},
+		{
+			"name": "TRNOVO",
+			"to_center": true,
+			"id": "602121"
+		},
+		{
+			"name": "TUJI GRM",
+			"to_center": true,
+			"id": "406081"
+		},
+		{
+			"name": "Tabor",
+			"to_center": true,
+			"id": "804101"
+		},
+		{
+			"name": "Tacen",
+			"to_center": true,
+			"id": "804151"
+		},
+		{
+			"name": "Tacenski most",
+			"to_center": true,
+			"id": "804141"
+		},
+		{
+			"name": "Tavčarjeva",
+			"to_center": true,
+			"id": "500011"
+		},
+		{
+			"name": "Tbilisijska",
+			"to_center": true,
+			"id": "603143"
+		},
+		{
+			"name": "Tbilisijska",
+			"to_center": true,
+			"id": "603141"
+		},
+		{
+			"name": "Tehnounion",
+			"to_center": true,
+			"id": "803071"
+		},
+		{
+			"name": "Temenica",
+			"to_center": true,
+			"id": "508081"
+		},
+		{
+			"name": "Tiki",
+			"to_center": true,
+			"id": "802061"
+		},
+		{
+			"name": "Tinčk",
+			"to_center": true,
+			"id": "405101"
+		},
+		{
+			"name": "Tivoli",
+			"to_center": true,
+			"id": "801011"
+		},
+		{
+			"name": "Tobačna",
+			"to_center": true,
+			"id": "602041"
+		},
+		{
+			"name": "Tomačevska",
+			"to_center": true,
+			"id": "203031"
+		},
+		{
+			"name": "Tomažičeva",
+			"to_center": true,
+			"id": "603211"
+		},
+		{
+			"name": "Tomišelj",
+			"to_center": true,
+			"id": "615061"
+		},
+		{
+			"name": "Tomišelj A",
+			"to_center": true,
+			"id": "615071"
+		},
+		{
+			"name": "Tomišelj K",
+			"to_center": true,
+			"id": "615051"
+		},
+		{
+			"name": "Toplarna",
+			"to_center": true,
+			"id": "103011"
+		},
+		{
+			"name": "Topniška",
+			"to_center": true,
+			"id": "102021"
+		},
+		{
+			"name": "Topole/Mengšu",
+			"to_center": true,
+			"id": "105081"
+		},
+		{
+			"name": "Tovarna Lek",
+			"to_center": true,
+			"id": "103051"
+		},
+		{
+			"name": "Tovorni kolodvor",
+			"to_center": true,
+			"id": "203061"
+		},
+		{
+			"name": "Trata",
+			"to_center": true,
+			"id": "804011"
+		},
+		{
+			"name": "Trbeže",
+			"to_center": true,
+			"id": "204251"
+		},
+		{
+			"name": "Trebeljevo",
+			"to_center": true,
+			"id": "406021"
+		},
+		{
+			"name": "Troščine",
+			"to_center": true,
+			"id": "535051"
+		},
+		{
+			"name": "Trzin",
+			"to_center": true,
+			"id": "105021"
+		},
+		{
+			"name": "Trzin Mlake",
+			"to_center": true,
+			"id": "105011"
+		},
+		{
+			"name": "Trzin ind. cona",
+			"to_center": true,
+			"id": "104241"
+		},
+		{
+			"name": "Trzin vas",
+			"to_center": true,
+			"id": "105031"
+		},
+		{
+			"name": "Tržnica Koseze",
+			"to_center": true,
+			"id": "803101"
+		},
+		{
+			"name": "Tržnica Moste",
+			"to_center": true,
+			"id": "303011"
+		},
+		{
+			"name": "Utik",
+			"to_center": true,
+			"id": "826041"
+		},
+		{
+			"name": "V. Lese",
+			"to_center": true,
+			"id": "528031"
+		},
+		{
+			"name": "V. Ligojna",
+			"to_center": true,
+			"id": "776051"
+		},
+		{
+			"name": "V. Lipljene",
+			"to_center": true,
+			"id": "546071"
+		},
+		{
+			"name": "V. Loka pri Viš. G.",
+			"to_center": true,
+			"id": "556051"
+		},
+		{
+			"name": "V. Mlačevo",
+			"to_center": true,
+			"id": "556101"
+		},
+		{
+			"name": "V. Mlačevo",
+			"to_center": true,
+			"id": "556103"
+		},
+		{
+			"name": "V. Mlačevo ŽP",
+			"to_center": true,
+			"id": "556031"
+		},
+		{
+			"name": "V. St. vas",
+			"to_center": true,
+			"id": "535031"
+		},
+		{
+			"name": "V.Račna",
+			"to_center": true,
+			"id": "526031"
+		},
+		{
+			"name": "VEVČE",
+			"to_center": true,
+			"id": "304101"
+		},
+		{
+			"name": "VODICE",
+			"to_center": true,
+			"id": "826011"
+		},
+		{
+			"name": "Valburga",
+			"to_center": true,
+			"id": "815091"
+		},
+		{
+			"name": "Vaše",
+			"to_center": true,
+			"id": "815181"
+		},
+		{
+			"name": "Veliki Lipoglav",
+			"to_center": true,
+			"id": "415031"
+		},
+		{
+			"name": "Veliki štradon",
+			"to_center": true,
+			"id": "603081"
+		},
+		{
+			"name": "Verd K",
+			"to_center": true,
+			"id": "756121"
+		},
+		{
+			"name": "Verje",
+			"to_center": true,
+			"id": "835011"
+		},
+		{
+			"name": "Vesca",
+			"to_center": true,
+			"id": "826061"
+		},
+		{
+			"name": "Vevče",
+			"to_center": true,
+			"id": "304103"
+		},
+		{
+			"name": "Vevče Papirnica",
+			"to_center": true,
+			"id": "304121"
+		},
+		{
+			"name": "Večna pot",
+			"to_center": true,
+			"id": "703181"
+		},
+		{
+			"name": "Viadukt",
+			"to_center": true,
+			"id": "202011"
+		},
+		{
+			"name": "Videm/Dobrepolju",
+			"to_center": true,
+			"id": "517041"
+		},
+		{
+			"name": "Vikrče",
+			"to_center": true,
+			"id": "815011"
+		},
+		{
+			"name": "Vir pri Stični",
+			"to_center": true,
+			"id": "507061"
+		},
+		{
+			"name": "Visoko/Kureščkom",
+			"to_center": true,
+			"id": "606031"
+		},
+		{
+			"name": "Vič",
+			"to_center": true,
+			"id": "703091"
+		},
+		{
+			"name": "Viško polje",
+			"to_center": true,
+			"id": "703041"
+		},
+		{
+			"name": "Višnja Gora",
+			"to_center": true,
+			"id": "506021"
+		},
+		{
+			"name": "Vižmarje",
+			"to_center": true,
+			"id": "804251"
+		},
+		{
+			"name": "Vnajnarje",
+			"to_center": true,
+			"id": "405091"
+		},
+		{
+			"name": "Vodice OŠ",
+			"to_center": true,
+			"id": "826091"
+		},
+		{
+			"name": "Vodovodna",
+			"to_center": true,
+			"id": "102071"
+		},
+		{
+			"name": "Vojsko",
+			"to_center": true,
+			"id": "826081"
+		},
+		{
+			"name": "Volavlje",
+			"to_center": true,
+			"id": "406061"
+		},
+		{
+			"name": "Vopovlje",
+			"to_center": true,
+			"id": "106041"
+		},
+		{
+			"name": "Vrbljene",
+			"to_center": true,
+			"id": "625011"
+		},
+		{
+			"name": "Vrh nad Želimljami 1",
+			"to_center": true,
+			"id": "516061"
+		},
+		{
+			"name": "Vrh nad Želimljami 2",
+			"to_center": true,
+			"id": "516071"
+		},
+		{
+			"name": "Vrh nad Želimljami GD",
+			"to_center": true,
+			"id": "516051"
+		},
+		{
+			"name": "Vrhnika",
+			"to_center": true,
+			"id": "706011"
+		},
+		{
+			"name": "Vrhnika Jazon",
+			"to_center": true,
+			"id": "705091"
+		},
+		{
+			"name": "Vrhnika OŠ AM Slomška",
+			"to_center": true,
+			"id": "999091"
+		},
+		{
+			"name": "Vrhnika Voljč.",
+			"to_center": true,
+			"id": "776021"
+		},
+		{
+			"name": "Vrhnika hrib",
+			"to_center": true,
+			"id": "706021"
+		},
+		{
+			"name": "Vrhnika samop.",
+			"to_center": true,
+			"id": "776011"
+		},
+		{
+			"name": "Vrhnika vrt.",
+			"to_center": true,
+			"id": "705081"
+		},
+		{
+			"name": "Vrhovci",
+			"to_center": true,
+			"id": "704031"
+		},
+		{
+			"name": "Vrzdenec",
+			"to_center": true,
+			"id": "716041"
+		},
+		{
+			"name": "Yulon",
+			"to_center": true,
+			"id": "203191"
+		},
+		{
+			"name": "ZADOBROVA",
+			"to_center": true,
+			"id": "204081"
+		},
+		{
+			"name": "ZALOG",
+			"to_center": true,
+			"id": "204313"
+		},
+		{
+			"name": "ZAPOTOK",
+			"to_center": true,
+			"id": "606051"
+		},
+		{
+			"name": "ZD Polje",
+			"to_center": true,
+			"id": "304141"
+		},
+		{
+			"name": "ZELENA JAMA",
+			"to_center": true,
+			"id": "202051"
+		},
+		{
+			"name": "ZG. Pirniče",
+			"to_center": true,
+			"id": "815041"
+		},
+		{
+			"name": "Zadobrova",
+			"to_center": true,
+			"id": "204083"
+		},
+		{
+			"name": "Zadvor",
+			"to_center": true,
+			"id": "404061"
+		},
+		{
+			"name": "Zadvor pri Grosupljem",
+			"to_center": true,
+			"id": "546011"
+		},
+		{
+			"name": "Zadvor-2",
+			"to_center": true,
+			"id": "404151"
+		},
+		{
+			"name": "Zagradec/Krki",
+			"to_center": true,
+			"id": "528051"
+		},
+		{
+			"name": "Zaklanec/Horjulu",
+			"to_center": true,
+			"id": "715131"
+		},
+		{
+			"name": "Zaloška",
+			"to_center": true,
+			"id": "303021"
+		},
+		{
+			"name": "Zaplana",
+			"to_center": true,
+			"id": "706031"
+		},
+		{
+			"name": "Zapoge",
+			"to_center": true,
+			"id": "825081"
+		},
+		{
+			"name": "Zapoge obračališče",
+			"to_center": true,
+			"id": "825111"
+		},
+		{
+			"name": "Zapotok/Kureščkom K",
+			"to_center": true,
+			"id": "606041"
+		},
+		{
+			"name": "Zapuže",
+			"to_center": true,
+			"id": "804381"
+		},
+		{
+			"name": "Zasavska",
+			"to_center": true,
+			"id": "104171"
+		},
+		{
+			"name": "Zavrh",
+			"to_center": true,
+			"id": "815141"
+		},
+		{
+			"name": "Zbilje K",
+			"to_center": true,
+			"id": "805071"
+		},
+		{
+			"name": "Zbilje jezero",
+			"to_center": true,
+			"id": "805081"
+		},
+		{
+			"name": "Zbiljski Gaj",
+			"to_center": true,
+			"id": "805061"
+		},
+		{
+			"name": "Zdenska vas",
+			"to_center": true,
+			"id": "527021"
+		},
+		{
+			"name": "Zeleni gaj",
+			"to_center": true,
+			"id": "204191"
+		},
+		{
+			"name": "Zg. Besnica",
+			"to_center": true,
+			"id": "405071"
+		},
+		{
+			"name": "Zg. Gameljne",
+			"to_center": true,
+			"id": "104201"
+		},
+		{
+			"name": "Zgornja Šiška",
+			"to_center": true,
+			"id": "803091"
+		},
+		{
+			"name": "Zgornji log",
+			"to_center": true,
+			"id": "704141"
+		},
+		{
+			"name": "Zidarjevec",
+			"to_center": true,
+			"id": "614051"
+		},
+		{
+			"name": "Zidarjevec 2",
+			"to_center": true,
+			"id": "614101"
+		},
+		{
+			"name": "Ziherlova",
+			"to_center": true,
+			"id": "602093"
+		},
+		{
+			"name": "Zmajski most",
+			"to_center": true,
+			"id": "501021"
+		},
+		{
+			"name": "Znojilje K",
+			"to_center": true,
+			"id": "567051"
+		},
+		{
+			"name": "ČRNI LOG",
+			"to_center": true,
+			"id": "603261"
+		},
+		{
+			"name": "ČRNI VRH",
+			"to_center": true,
+			"id": "737041"
+		},
+		{
+			"name": "ČRNUČE",
+			"to_center": true,
+			"id": "104161"
+		},
+		{
+			"name": "Čebelarska",
+			"to_center": true,
+			"id": "803111"
+		},
+		{
+			"name": "Čerinova",
+			"to_center": true,
+			"id": "103121"
+		},
+		{
+			"name": "Črni Vrh nad Vrhovci",
+			"to_center": true,
+			"id": "737031"
+		},
+		{
+			"name": "Čušperk",
+			"to_center": true,
+			"id": "526051"
+		},
+		{
+			"name": "ŠENTJOŠT",
+			"to_center": true,
+			"id": "716051"
+		},
+		{
+			"name": "ŠKOFLJICA obrač.",
+			"to_center": true,
+			"id": "515013"
+		},
+		{
+			"name": "ŠTEPANJSKO NAS.",
+			"to_center": true,
+			"id": "303043"
+		},
+		{
+			"name": "ŠTEPANJSKO NAS.",
+			"to_center": true,
+			"id": "303041"
+		},
+		{
+			"name": "Šemnikar",
+			"to_center": true,
+			"id": "406011"
+		},
+		{
+			"name": "Šentjakob",
+			"to_center": true,
+			"id": "204153"
+		},
+		{
+			"name": "Šentjakob",
+			"to_center": true,
+			"id": "204151"
+		},
+		{
+			"name": "Šentvid",
+			"to_center": true,
+			"id": "804041"
+		},
+		{
+			"name": "Šentvid pri Stični",
+			"to_center": true,
+			"id": "507111"
+		},
+		{
+			"name": "Šentvid pri Stični K",
+			"to_center": true,
+			"id": "507121"
+		},
+		{
+			"name": "Šentvid pri Stični ŽP",
+			"to_center": true,
+			"id": "507131"
+		},
+		{
+			"name": "Šinkov Turn",
+			"to_center": true,
+			"id": "826131"
+		},
+		{
+			"name": "Šinkov Turn hrib",
+			"to_center": true,
+			"id": "826141"
+		},
+		{
+			"name": "Škocjan",
+			"to_center": true,
+			"id": "546091"
+		},
+		{
+			"name": "Škoflje/Šentvidu",
+			"to_center": true,
+			"id": "508031"
+		},
+		{
+			"name": "Škofljica Javornik",
+			"to_center": true,
+			"id": "505011"
+		},
+		{
+			"name": "Škofljica Petkovšek",
+			"to_center": true,
+			"id": "504101"
+		},
+		{
+			"name": "Škofljica špica",
+			"to_center": true,
+			"id": "515011"
+		},
+		{
+			"name": "Škofljica žaga",
+			"to_center": true,
+			"id": "504111"
+		},
+		{
+			"name": "Škrilje",
+			"to_center": true,
+			"id": "605051"
+		},
+		{
+			"name": "Škrjanče/Iv.G.",
+			"to_center": true,
+			"id": "567021"
+		},
+		{
+			"name": "Šlandrova",
+			"to_center": true,
+			"id": "104071"
+		},
+		{
+			"name": "Šmarje",
+			"to_center": true,
+			"id": "505061"
+		},
+		{
+			"name": "Šmartno",
+			"to_center": true,
+			"id": "104191"
+		},
+		{
+			"name": "Šmartno pod Š.G.",
+			"to_center": true,
+			"id": "104193"
+		},
+		{
+			"name": "Šola Jarše",
+			"to_center": true,
+			"id": "203041"
+		},
+		{
+			"name": "Šolska",
+			"to_center": true,
+			"id": "744011"
+		},
+		{
+			"name": "Špilar",
+			"to_center": true,
+			"id": "505031"
+		},
+		{
+			"name": "Št. Jurij",
+			"to_center": true,
+			"id": "546061"
+		},
+		{
+			"name": "Štepanja vas",
+			"to_center": true,
+			"id": "403041"
+		},
+		{
+			"name": "Štepanja vas",
+			"to_center": true,
+			"id": "403043"
+		},
+		{
+			"name": "Študentsko naselje",
+			"to_center": true,
+			"id": "702021"
+		},
+		{
+			"name": "Šuica",
+			"to_center": true,
+			"id": "725021"
+		},
+		{
+			"name": "ŽELEZNA",
+			"to_center": true,
+			"id": "201011"
+		},
+		{
+			"name": "ŽELIMLJE",
+			"to_center": true,
+			"id": "525031"
+		},
+		{
+			"name": "Žabja vas",
+			"to_center": true,
+			"id": "535071"
+		},
+		{
+			"name": "Žale",
+			"to_center": true,
+			"id": "202061"
+		},
+		{
+			"name": "Žalna",
+			"to_center": true,
+			"id": "556111"
+		},
+		{
+			"name": "Žalna ŽP",
+			"to_center": true,
+			"id": "556041"
+		},
+		{
+			"name": "Žažar",
+			"to_center": true,
+			"id": "716031"
+		},
+		{
+			"name": "Želimlje Nučič",
+			"to_center": true,
+			"id": "525021"
+		},
+		{
+			"name": "Želimlje Rogovilec",
+			"to_center": true,
+			"id": "525011"
+		},
+		{
+			"name": "Žirovnik",
+			"to_center": true,
+			"id": "725061"
+		},
+		{
+			"name": "Žito",
+			"to_center": true,
+			"id": "203151"
+		},
+		{
+			"name": "Živalski vrt-ZOO",
+			"to_center": true,
+			"id": "703121"
+		},{
+			"name": "7. septembra",
+			"to_center": false,
+			"id": "103112"
+		},
+		{
+			"name": "AMZS",
+			"to_center": false,
+			"id": "103032"
+		},
+		{
+			"name": "Adamičev spomenik",
+			"to_center": false,
+			"id": "505132"
+		},
+		{
+			"name": "Agrokombinatska",
+			"to_center": false,
+			"id": "204214"
+		},
+		{
+			"name": "Agrokombinatska",
+			"to_center": false,
+			"id": "204212"
+		},
+		{
+			"name": "Ajdovščina",
+			"to_center": false,
+			"id": "600022"
+		},
+		{
+			"name": "Akademija",
+			"to_center": false,
+			"id": "503032"
+		},
+		{
+			"name": "Aleja",
+			"to_center": false,
+			"id": "803022"
+		},
+		{
+			"name": "Ambrožev trg",
+			"to_center": false,
+			"id": "502014"
+		},
+		{
+			"name": "Andreja Bitenca",
+			"to_center": false,
+			"id": "804172"
+		},
+		{
+			"name": "Anžon",
+			"to_center": false,
+			"id": "999872"
+		},
+		{
+			"name": "Archinetova",
+			"to_center": false,
+			"id": "303062"
+		},
+		{
+			"name": "Astra",
+			"to_center": false,
+			"id": "101052"
+		},
+		{
+			"name": "Aškerčeva",
+			"to_center": false,
+			"id": "602052"
+		},
+		{
+			"name": "BTC-Emporium",
+			"to_center": false,
+			"id": "203142"
+		},
+		{
+			"name": "BTC-Kolosej",
+			"to_center": false,
+			"id": "203132"
+		},
+		{
+			"name": "BTC-Merkur",
+			"to_center": false,
+			"id": "203242"
+		},
+		{
+			"name": "BTC-tržnica",
+			"to_center": false,
+			"id": "203122"
+		},
+		{
+			"name": "BTC-uprava",
+			"to_center": false,
+			"id": "203112"
+		},
+		{
+			"name": "Baragova",
+			"to_center": false,
+			"id": "103212"
+		},
+		{
+			"name": "Barje",
+			"to_center": false,
+			"id": "604022"
+		},
+		{
+			"name": "Baron",
+			"to_center": false,
+			"id": "405122"
+		},
+		{
+			"name": "Bavarski dvor",
+			"to_center": false,
+			"id": "600012"
+		},
+		{
+			"name": "Belica",
+			"to_center": false,
+			"id": "725092"
+		},
+		{
+			"name": "Belinka",
+			"to_center": false,
+			"id": "204142"
+		},
+		{
+			"name": "Benat",
+			"to_center": false,
+			"id": "546022"
+		},
+		{
+			"name": "Besnica",
+			"to_center": false,
+			"id": "405022"
+		},
+		{
+			"name": "Besnica ambulanta",
+			"to_center": false,
+			"id": "405052"
+		},
+		{
+			"name": "Besnica kamnolom",
+			"to_center": false,
+			"id": "405062"
+		},
+		{
+			"name": "Besnica šola",
+			"to_center": false,
+			"id": "405032"
+		},
+		{
+			"name": "Bevke",
+			"to_center": false,
+			"id": "765032"
+		},
+		{
+			"name": "Bežigrad",
+			"to_center": false,
+			"id": "101032"
+		},
+		{
+			"name": "Bilečanska",
+			"to_center": false,
+			"id": "403072"
+		},
+		{
+			"name": "Bistra",
+			"to_center": false,
+			"id": "756102"
+		},
+		{
+			"name": "Bizovik",
+			"to_center": false,
+			"id": "404122"
+		},
+		{
+			"name": "Blaževo",
+			"to_center": false,
+			"id": "405042"
+		},
+		{
+			"name": "Bleiweisova",
+			"to_center": false,
+			"id": "701012"
+		},
+		{
+			"name": "Blekova vas",
+			"to_center": false,
+			"id": "707012"
+		},
+		{
+			"name": "Bobrova",
+			"to_center": false,
+			"id": "504122"
+		},
+		{
+			"name": "Boga vas",
+			"to_center": false,
+			"id": "508022"
+		},
+		{
+			"name": "Bolnica",
+			"to_center": false,
+			"id": "402042"
+		},
+		{
+			"name": "Bolnica P. Držaja",
+			"to_center": false,
+			"id": "802042"
+		},
+		{
+			"name": "Bonifacija",
+			"to_center": false,
+			"id": "703102"
+		},
+		{
+			"name": "Borovnica K",
+			"to_center": false,
+			"id": "756062"
+		},
+		{
+			"name": "Borovnica most",
+			"to_center": false,
+			"id": "756052"
+		},
+		{
+			"name": "Božičeva",
+			"to_center": false,
+			"id": "103192"
+		},
+		{
+			"name": "Bratislavska",
+			"to_center": false,
+			"id": "203182"
+		},
+		{
+			"name": "Bratov Babnik",
+			"to_center": false,
+			"id": "803162"
+		},
+		{
+			"name": "Bratov Učakar",
+			"to_center": false,
+			"id": "803132"
+		},
+		{
+			"name": "Bratov Židan",
+			"to_center": false,
+			"id": "101062"
+		},
+		{
+			"name": "Brdo",
+			"to_center": false,
+			"id": "704026"
+		},
+		{
+			"name": "Breg pri Borovnici",
+			"to_center": false,
+			"id": "756042"
+		},
+		{
+			"name": "Brest",
+			"to_center": false,
+			"id": "615042"
+		},
+		{
+			"name": "Brezje pri Dobrovi",
+			"to_center": false,
+			"id": "715112"
+		},
+		{
+			"name": "Brezje pri Dobrovi And.",
+			"to_center": false,
+			"id": "715102"
+		},
+		{
+			"name": "Brezovica pošta",
+			"to_center": false,
+			"id": "744032"
+		},
+		{
+			"name": "Brezovica pri Ljubljani",
+			"to_center": false,
+			"id": "704082"
+		},
+		{
+			"name": "Brglezov štradon",
+			"to_center": false,
+			"id": "614022"
+		},
+		{
+			"name": "Brinje",
+			"to_center": false,
+			"id": "103022"
+		},
+		{
+			"name": "Briše pri Polh.G.",
+			"to_center": false,
+			"id": "726022"
+		},
+		{
+			"name": "Briše pri Polh.G.Koroš.",
+			"to_center": false,
+			"id": "726032"
+		},
+		{
+			"name": "Briše pri Polh.G.M.Voda",
+			"to_center": false,
+			"id": "726042"
+		},
+		{
+			"name": "Brnik PC zahod",
+			"to_center": false,
+			"id": "106056"
+		},
+		{
+			"name": "Brod",
+			"to_center": false,
+			"id": "804122"
+		},
+		{
+			"name": "Brodarjev trg",
+			"to_center": false,
+			"id": "303072"
+		},
+		{
+			"name": "Brvace",
+			"to_center": false,
+			"id": "505092"
+		},
+		{
+			"name": "Bukovica Anzel",
+			"to_center": false,
+			"id": "826032"
+		},
+		{
+			"name": "Bukovica Plevevc",
+			"to_center": false,
+			"id": "826022"
+		},
+		{
+			"name": "Butajnova",
+			"to_center": false,
+			"id": "726072"
+		},
+		{
+			"name": "Butajnova Setnik",
+			"to_center": false,
+			"id": "726052"
+		},
+		{
+			"name": "Butajnova Čamernik",
+			"to_center": false,
+			"id": "726062"
+		},
+		{
+			"name": "C. dveh cesarjev",
+			"to_center": false,
+			"id": "704162"
+		},
+		{
+			"name": "Cankarjev dom",
+			"to_center": false,
+			"id": "602012"
+		},
+		{
+			"name": "Capuder",
+			"to_center": false,
+			"id": "614042"
+		},
+		{
+			"name": "Center Zalog",
+			"to_center": false,
+			"id": "204182"
+		},
+		{
+			"name": "Cesta XV",
+			"to_center": false,
+			"id": "703022"
+		},
+		{
+			"name": "Cesta na Brod",
+			"to_center": false,
+			"id": "104092"
+		},
+		{
+			"name": "Cesta na Drenik",
+			"to_center": false,
+			"id": "515192"
+		},
+		{
+			"name": "Cesta na Drenik 1",
+			"to_center": false,
+			"id": "515202"
+		},
+		{
+			"name": "Cesta na Drenik 2",
+			"to_center": false,
+			"id": "515212"
+		},
+		{
+			"name": "Cesta na Kope",
+			"to_center": false,
+			"id": "204352"
+		},
+		{
+			"name": "Cesta na Vevče",
+			"to_center": false,
+			"id": "304092"
+		},
+		{
+			"name": "Cesta na Vrhovce",
+			"to_center": false,
+			"id": "703222"
+		},
+		{
+			"name": "Cesta v Bizovik",
+			"to_center": false,
+			"id": "404022"
+		},
+		{
+			"name": "Cesta v Gorice",
+			"to_center": false,
+			"id": "704152"
+		},
+		{
+			"name": "Cesta v Kresnice",
+			"to_center": false,
+			"id": "204272"
+		},
+		{
+			"name": "Cesta v Zajčjo Dobravo",
+			"to_center": false,
+			"id": "204342"
+		},
+		{
+			"name": "Cesta v Zavoglje",
+			"to_center": false,
+			"id": "404072"
+		},
+		{
+			"name": "Cesta/Dobrepolju",
+			"to_center": false,
+			"id": "527012"
+		},
+		{
+			"name": "Chengdujska",
+			"to_center": false,
+			"id": "304042"
+		},
+		{
+			"name": "Cikava",
+			"to_center": false,
+			"id": "505082"
+		},
+		{
+			"name": "Cukrarna",
+			"to_center": false,
+			"id": "502022"
+		},
+		{
+			"name": "Cukrarna",
+			"to_center": false,
+			"id": "502024"
+		},
+		{
+			"name": "D. Brezovica Baša",
+			"to_center": false,
+			"id": "746022"
+		},
+		{
+			"name": "D. Brezovica Landovec",
+			"to_center": false,
+			"id": "746032"
+		},
+		{
+			"name": "D.vas pri Polh.G.",
+			"to_center": false,
+			"id": "725112"
+		},
+		{
+			"name": "Dalmatinova",
+			"to_center": false,
+			"id": "600032"
+		},
+		{
+			"name": "Debenc",
+			"to_center": false,
+			"id": "999862"
+		},
+		{
+			"name": "Dečja vas pri Zagradcu",
+			"to_center": false,
+			"id": "528092"
+		},
+		{
+			"name": "Dob/Šentvidu",
+			"to_center": false,
+			"id": "508012"
+		},
+		{
+			"name": "Dobrava/Črnučah",
+			"to_center": false,
+			"id": "104232"
+		},
+		{
+			"name": "Dobravica K",
+			"to_center": false,
+			"id": "605032"
+		},
+		{
+			"name": "Dobrova",
+			"to_center": false,
+			"id": "725012"
+		},
+		{
+			"name": "Dobrova",
+			"to_center": false,
+			"id": "725014"
+		},
+		{
+			"name": "Dobrova Maček",
+			"to_center": false,
+			"id": "715082"
+		},
+		{
+			"name": "Dobrova Skodlar",
+			"to_center": false,
+			"id": "715092"
+		},
+		{
+			"name": "Dobrova graben",
+			"to_center": false,
+			"id": "715062"
+		},
+		{
+			"name": "Dobrova vodomet",
+			"to_center": false,
+			"id": "715072"
+		},
+		{
+			"name": "Dobrunje",
+			"to_center": false,
+			"id": "404032"
+		},
+		{
+			"name": "Dobrunje-2",
+			"to_center": false,
+			"id": "404132"
+		},
+		{
+			"name": "Dobrunjska c.",
+			"to_center": false,
+			"id": "404182"
+		},
+		{
+			"name": "Dobruša lipa",
+			"to_center": false,
+			"id": "825072"
+		},
+		{
+			"name": "Dol pri Borovnici Majer",
+			"to_center": false,
+			"id": "756082"
+		},
+		{
+			"name": "Dol pri Borovnici Pivk",
+			"to_center": false,
+			"id": "756092"
+		},
+		{
+			"name": "Dolgi most",
+			"to_center": false,
+			"id": "703112"
+		},
+		{
+			"name": "Dolgi most Rotar",
+			"to_center": false,
+			"id": "704052"
+		},
+		{
+			"name": "Dolnice",
+			"to_center": false,
+			"id": "804402"
+		},
+		{
+			"name": "Dom obrtnikov",
+			"to_center": false,
+			"id": "505192"
+		},
+		{
+			"name": "Dom starejših",
+			"to_center": false,
+			"id": "505182"
+		},
+		{
+			"name": "Dornig",
+			"to_center": false,
+			"id": "614032"
+		},
+		{
+			"name": "Draga",
+			"to_center": false,
+			"id": "803222"
+		},
+		{
+			"name": "Dragomer",
+			"to_center": false,
+			"id": "705012"
+		},
+		{
+			"name": "Drama",
+			"to_center": false,
+			"id": "602022"
+		},
+		{
+			"name": "Draveljska gmajna",
+			"to_center": false,
+			"id": "803152"
+		},
+		{
+			"name": "Dravlje",
+			"to_center": false,
+			"id": "803042"
+		},
+		{
+			"name": "Draževnik",
+			"to_center": false,
+			"id": "715012"
+		},
+		{
+			"name": "Drenikova",
+			"to_center": false,
+			"id": "802052"
+		},
+		{
+			"name": "Drenov Grič",
+			"to_center": false,
+			"id": "705052"
+		},
+		{
+			"name": "Drobnič",
+			"to_center": false,
+			"id": "535042"
+		},
+		{
+			"name": "Dvor",
+			"to_center": false,
+			"id": "804352"
+		},
+		{
+			"name": "Dvor pri Polh.G.",
+			"to_center": false,
+			"id": "725102"
+		},
+		{
+			"name": "Elma",
+			"to_center": false,
+			"id": "104062"
+		},
+		{
+			"name": "Emona",
+			"to_center": false,
+			"id": "403052"
+		},
+		{
+			"name": "Erbežnik",
+			"to_center": false,
+			"id": "745022"
+		},
+		{
+			"name": "Flajšmanova",
+			"to_center": false,
+			"id": "202082"
+		},
+		{
+			"name": "Friškovec",
+			"to_center": false,
+			"id": "301012"
+		},
+		{
+			"name": "G. Brezovica",
+			"to_center": false,
+			"id": "746042"
+		},
+		{
+			"name": "G.vas/Muljavi K",
+			"to_center": false,
+			"id": "567032"
+		},
+		{
+			"name": "Gaberje pri Dob.Brvičar",
+			"to_center": false,
+			"id": "725042"
+		},
+		{
+			"name": "Gaberje pri Dobrovi",
+			"to_center": false,
+			"id": "725032"
+		},
+		{
+			"name": "Gabrovčec K",
+			"to_center": false,
+			"id": "567062"
+		},
+		{
+			"name": "Galjevica",
+			"to_center": false,
+			"id": "603162"
+		},
+		{
+			"name": "Ganter",
+			"to_center": false,
+			"id": "999832"
+		},
+		{
+			"name": "Gasilska brigada",
+			"to_center": false,
+			"id": "102032"
+		},
+		{
+			"name": "Gerbičeva",
+			"to_center": false,
+			"id": "603022"
+		},
+		{
+			"name": "Glince",
+			"to_center": false,
+			"id": "703082"
+		},
+		{
+			"name": "Glinek Gumnišče",
+			"to_center": false,
+			"id": "515132"
+		},
+		{
+			"name": "Glinek/Škofljici",
+			"to_center": false,
+			"id": "515022"
+		},
+		{
+			"name": "Glogovica K",
+			"to_center": false,
+			"id": "507142"
+		},
+		{
+			"name": "Glonarjeva",
+			"to_center": false,
+			"id": "402052"
+		},
+		{
+			"name": "Golo",
+			"to_center": false,
+			"id": "605062"
+		},
+		{
+			"name": "Golouhova",
+			"to_center": false,
+			"id": "603152"
+		},
+		{
+			"name": "Goričane kopališče",
+			"to_center": false,
+			"id": "815202"
+		},
+		{
+			"name": "Goričane pod gradom",
+			"to_center": false,
+			"id": "815192"
+		},
+		{
+			"name": "Goričica pod Krimom",
+			"to_center": false,
+			"id": "756022"
+		},
+		{
+			"name": "Gorjančeva",
+			"to_center": false,
+			"id": "103092"
+		},
+		{
+			"name": "Gornje Blato 1",
+			"to_center": false,
+			"id": "515172"
+		},
+		{
+			"name": "Gornje Blato 2",
+			"to_center": false,
+			"id": "515182"
+		},
+		{
+			"name": "Gornje Blato Center",
+			"to_center": false,
+			"id": "515162"
+		},
+		{
+			"name": "Gornje Poljane",
+			"to_center": false,
+			"id": "402062"
+		},
+		{
+			"name": "Gornji Rudnik",
+			"to_center": false,
+			"id": "504012"
+		},
+		{
+			"name": "Gornji trg",
+			"to_center": false,
+			"id": "602102"
+		},
+		{
+			"name": "Gosposvetska",
+			"to_center": false,
+			"id": "700012"
+		},
+		{
+			"name": "Gostilna Kovač",
+			"to_center": false,
+			"id": "815102"
+		},
+		{
+			"name": "Gradišče 1",
+			"to_center": false,
+			"id": "515102"
+		},
+		{
+			"name": "Gradišče 2",
+			"to_center": false,
+			"id": "515112"
+		},
+		{
+			"name": "Grintovec/Zagradcu",
+			"to_center": false,
+			"id": "528102"
+		},
+		{
+			"name": "Griže/Stični",
+			"to_center": false,
+			"id": "507092"
+		},
+		{
+			"name": "Grm",
+			"to_center": false,
+			"id": "508052"
+		},
+		{
+			"name": "Grosuplje Motel",
+			"to_center": false,
+			"id": "506012"
+		},
+		{
+			"name": "Grosuplje SM",
+			"to_center": false,
+			"id": "556012"
+		},
+		{
+			"name": "Grčarevski Vrh",
+			"to_center": false,
+			"id": "707044"
+		},
+		{
+			"name": "Gumnišče 1",
+			"to_center": false,
+			"id": "515152"
+		},
+		{
+			"name": "Gumnišče center",
+			"to_center": false,
+			"id": "515142"
+		},
+		{
+			"name": "Hajdrihova",
+			"to_center": false,
+			"id": "602032"
+		},
+		{
+			"name": "Havptmance",
+			"to_center": false,
+			"id": "604042"
+		},
+		{
+			"name": "Hladilniška",
+			"to_center": false,
+			"id": "204312"
+		},
+		{
+			"name": "Hlebš",
+			"to_center": false,
+			"id": "405082"
+		},
+		{
+			"name": "Horjul",
+			"to_center": false,
+			"id": "716012"
+		},
+		{
+			"name": "Hrastenice",
+			"to_center": false,
+			"id": "725072"
+		},
+		{
+			"name": "Hrastje",
+			"to_center": false,
+			"id": "204062"
+		},
+		{
+			"name": "Hrastje pri Golem",
+			"to_center": false,
+			"id": "605072"
+		},
+		{
+			"name": "Hraše center",
+			"to_center": false,
+			"id": "816012"
+		},
+		{
+			"name": "Hraše vzhod",
+			"to_center": false,
+			"id": "816022"
+		},
+		{
+			"name": "Hraše zahod",
+			"to_center": false,
+			"id": "815132"
+		},
+		{
+			"name": "Hruševo",
+			"to_center": false,
+			"id": "725052"
+		},
+		{
+			"name": "Hruševska",
+			"to_center": false,
+			"id": "404112"
+		},
+		{
+			"name": "Hrušica",
+			"to_center": false,
+			"id": "404012"
+		},
+		{
+			"name": "Hrvatski trg",
+			"to_center": false,
+			"id": "402012"
+		},
+		{
+			"name": "I. Kobilca",
+			"to_center": false,
+			"id": "703212"
+		},
+		{
+			"name": "I.C. Šiška",
+			"to_center": false,
+			"id": "103232"
+		},
+		{
+			"name": "IMP",
+			"to_center": false,
+			"id": "804162"
+		},
+		{
+			"name": "Ig",
+			"to_center": false,
+			"id": "625022"
+		},
+		{
+			"name": "Ig AP",
+			"to_center": false,
+			"id": "605012"
+		},
+		{
+			"name": "Ig Petrol",
+			"to_center": false,
+			"id": "605082"
+		},
+		{
+			"name": "Ig mizarstvo",
+			"to_center": false,
+			"id": "605022"
+		},
+		{
+			"name": "Ilirska",
+			"to_center": false,
+			"id": "501012"
+		},
+		{
+			"name": "Ivančna Gorica",
+			"to_center": false,
+			"id": "507032"
+		},
+		{
+			"name": "Ivančna Gorica ŠC",
+			"to_center": false,
+			"id": "507072"
+		},
+		{
+			"name": "Iška Loka",
+			"to_center": false,
+			"id": "615012"
+		},
+		{
+			"name": "Iška vas",
+			"to_center": false,
+			"id": "625052"
+		},
+		{
+			"name": "Iška vas šola",
+			"to_center": false,
+			"id": "625062"
+		},
+		{
+			"name": "Ižanska",
+			"to_center": false,
+			"id": "603122"
+		},
+		{
+			"name": "Ižica",
+			"to_center": false,
+			"id": "604062"
+		},
+		{
+			"name": "Jadranska",
+			"to_center": false,
+			"id": "603012"
+		},
+		{
+			"name": "Jamnikarjeva",
+			"to_center": false,
+			"id": "703032"
+		},
+		{
+			"name": "Jana Husa",
+			"to_center": false,
+			"id": "403012"
+		},
+		{
+			"name": "Japelj",
+			"to_center": false,
+			"id": "744022"
+		},
+		{
+			"name": "Jarše",
+			"to_center": false,
+			"id": "203092"
+		},
+		{
+			"name": "Javor",
+			"to_center": false,
+			"id": "405012"
+		},
+		{
+			"name": "Javor-2",
+			"to_center": false,
+			"id": "425012"
+		},
+		{
+			"name": "Ježa",
+			"to_center": false,
+			"id": "104182"
+		},
+		{
+			"name": "Ježica",
+			"to_center": false,
+			"id": "104032"
+		},
+		{
+			"name": "Ježkova",
+			"to_center": false,
+			"id": "703202"
+		},
+		{
+			"name": "Jurečič",
+			"to_center": false,
+			"id": "614112"
+		},
+		{
+			"name": "Jurčkova",
+			"to_center": false,
+			"id": "504044"
+		},
+		{
+			"name": "Jurčkova",
+			"to_center": false,
+			"id": "504042"
+		},
+		{
+			"name": "KPL",
+			"to_center": false,
+			"id": "404052"
+		},
+		{
+			"name": "KS. Pirniče",
+			"to_center": false,
+			"id": "815032"
+		},
+		{
+			"name": "Kajakaška",
+			"to_center": false,
+			"id": "815112"
+		},
+		{
+			"name": "Kajuhova",
+			"to_center": false,
+			"id": "303022"
+		},
+		{
+			"name": "Kal/Ambrusu",
+			"to_center": false,
+			"id": "528132"
+		},
+		{
+			"name": "Kal/Ambrusu K",
+			"to_center": false,
+			"id": "528122"
+		},
+		{
+			"name": "Kalce/Logatcu",
+			"to_center": false,
+			"id": "707032"
+		},
+		{
+			"name": "Kališnikov trg",
+			"to_center": false,
+			"id": "104022"
+		},
+		{
+			"name": "Kamni Vrh",
+			"to_center": false,
+			"id": "528142"
+		},
+		{
+			"name": "Kamnik pod Krimom",
+			"to_center": false,
+			"id": "745092"
+		},
+		{
+			"name": "Kamnik pod Krimom K.",
+			"to_center": false,
+			"id": "745082"
+		},
+		{
+			"name": "Kamnogoriška",
+			"to_center": false,
+			"id": "804392"
+		},
+		{
+			"name": "Kardeljeva ploščad",
+			"to_center": false,
+			"id": "102092"
+		},
+		{
+			"name": "Kavčičeva",
+			"to_center": false,
+			"id": "203052"
+		},
+		{
+			"name": "Kašeljska",
+			"to_center": false,
+			"id": "304162"
+		},
+		{
+			"name": "Kino Šiška",
+			"to_center": false,
+			"id": "802022"
+		},
+		{
+			"name": "Klinični center",
+			"to_center": false,
+			"id": "402032"
+		},
+		{
+			"name": "Kneza Koclja",
+			"to_center": false,
+			"id": "803082"
+		},
+		{
+			"name": "Kodeljevo",
+			"to_center": false,
+			"id": "403022"
+		},
+		{
+			"name": "Kodrova",
+			"to_center": false,
+			"id": "203102"
+		},
+		{
+			"name": "Kolodvor",
+			"to_center": false,
+			"id": "300012"
+		},
+		{
+			"name": "Kolodvor Črnuče",
+			"to_center": false,
+			"id": "104102"
+		},
+		{
+			"name": "Komanija",
+			"to_center": false,
+			"id": "715022"
+		},
+		{
+			"name": "Komenda vas",
+			"to_center": false,
+			"id": "106012"
+		},
+		{
+			"name": "Komenda Š",
+			"to_center": false,
+			"id": "999202"
+		},
+		{
+			"name": "Kompas",
+			"to_center": false,
+			"id": "803032"
+		},
+		{
+			"name": "Kongo",
+			"to_center": false,
+			"id": "505172"
+		},
+		{
+			"name": "Konzorcij",
+			"to_center": false,
+			"id": "601012"
+		},
+		{
+			"name": "Koprska",
+			"to_center": false,
+			"id": "603044"
+		},
+		{
+			"name": "Koseze",
+			"to_center": false,
+			"id": "803142"
+		},
+		{
+			"name": "Koseze",
+			"to_center": false,
+			"id": "826112"
+		},
+		{
+			"name": "Koseze Stare",
+			"to_center": false,
+			"id": "826122"
+		},
+		{
+			"name": "Kosmačeva",
+			"to_center": false,
+			"id": "804082"
+		},
+		{
+			"name": "Kot",
+			"to_center": false,
+			"id": "625042"
+		},
+		{
+			"name": "Kovinarska",
+			"to_center": false,
+			"id": "803212"
+		},
+		{
+			"name": "Kozarje",
+			"to_center": false,
+			"id": "704102"
+		},
+		{
+			"name": "Kozarje GD",
+			"to_center": false,
+			"id": "714012"
+		},
+		{
+			"name": "Kozarje gmajna",
+			"to_center": false,
+			"id": "714022"
+		},
+		{
+			"name": "Kozler",
+			"to_center": false,
+			"id": "614082"
+		},
+		{
+			"name": "Kožljevec",
+			"to_center": false,
+			"id": "535062"
+		},
+		{
+			"name": "Krimska",
+			"to_center": false,
+			"id": "603032"
+		},
+		{
+			"name": "Krivec",
+			"to_center": false,
+			"id": "804412"
+		},
+		{
+			"name": "Križanke",
+			"to_center": false,
+			"id": "602062"
+		},
+		{
+			"name": "Križišče Sostro",
+			"to_center": false,
+			"id": "404082"
+		},
+		{
+			"name": "Križišče Sostro",
+			"to_center": false,
+			"id": "404084"
+		},
+		{
+			"name": "Krožna pot",
+			"to_center": false,
+			"id": "404102"
+		},
+		{
+			"name": "Krpan",
+			"to_center": false,
+			"id": "536022"
+		},
+		{
+			"name": "Kržičeva",
+			"to_center": false,
+			"id": "101034"
+		},
+		{
+			"name": "Kurešček K",
+			"to_center": false,
+			"id": "606012"
+		},
+		{
+			"name": "Kurja vas/Šentjoštu",
+			"to_center": false,
+			"id": "727012"
+		},
+		{
+			"name": "Kužljevec K",
+			"to_center": false,
+			"id": "528112"
+		},
+		{
+			"name": "Lahovče",
+			"to_center": false,
+			"id": "106032"
+		},
+		{
+			"name": "Lanišče",
+			"to_center": false,
+			"id": "406072"
+		},
+		{
+			"name": "Lavrica",
+			"to_center": false,
+			"id": "504092"
+		},
+		{
+			"name": "Lavrica pri Malči",
+			"to_center": false,
+			"id": "504082"
+		},
+		{
+			"name": "Ledena dvorana Zalog",
+			"to_center": false,
+			"id": "204302"
+		},
+		{
+			"name": "Leskoškova",
+			"to_center": false,
+			"id": "204012"
+		},
+		{
+			"name": "Lesno Brdo",
+			"to_center": false,
+			"id": "705042"
+		},
+		{
+			"name": "Ligojna K",
+			"to_center": false,
+			"id": "776042"
+		},
+		{
+			"name": "Lipe",
+			"to_center": false,
+			"id": "614072"
+		},
+		{
+			"name": "Litostroj",
+			"to_center": false,
+			"id": "103202"
+		},
+		{
+			"name": "Litostrojska",
+			"to_center": false,
+			"id": "803052"
+		},
+		{
+			"name": "Ljubgojna",
+			"to_center": false,
+			"id": "716022"
+		},
+		{
+			"name": "Ljubljanska",
+			"to_center": false,
+			"id": "505152"
+		},
+		{
+			"name": "Ljubljanske brigade",
+			"to_center": false,
+			"id": "803062"
+		},
+		{
+			"name": "Lobček",
+			"to_center": false,
+			"id": "556092"
+		},
+		{
+			"name": "Log",
+			"to_center": false,
+			"id": "603252"
+		},
+		{
+			"name": "Log pri Brez.Mole",
+			"to_center": false,
+			"id": "705022"
+		},
+		{
+			"name": "Log pri Brez.vas",
+			"to_center": false,
+			"id": "705032"
+		},
+		{
+			"name": "Log pri Polh.G.",
+			"to_center": false,
+			"id": "725082"
+		},
+		{
+			"name": "Logatec",
+			"to_center": false,
+			"id": "707022"
+		},
+		{
+			"name": "Logatec Krpan",
+			"to_center": false,
+			"id": "706042"
+		},
+		{
+			"name": "Loka pri Mengšu",
+			"to_center": false,
+			"id": "105042"
+		},
+		{
+			"name": "Lukovica pri Brezovici",
+			"to_center": false,
+			"id": "704092"
+		},
+		{
+			"name": "Lutkovno gl.",
+			"to_center": false,
+			"id": "501032"
+		},
+		{
+			"name": "Luče Na Šoli",
+			"to_center": false,
+			"id": "556062"
+		},
+		{
+			"name": "M. Lipljene",
+			"to_center": false,
+			"id": "546082"
+		},
+		{
+			"name": "M. St. vas",
+			"to_center": false,
+			"id": "535022"
+		},
+		{
+			"name": "M. vas pri Grosupljem",
+			"to_center": false,
+			"id": "546052"
+		},
+		{
+			"name": "M.Hudo",
+			"to_center": false,
+			"id": "507022"
+		},
+		{
+			"name": "M.Ilova GORA",
+			"to_center": false,
+			"id": "526062"
+		},
+		{
+			"name": "M.Mlačevo",
+			"to_center": false,
+			"id": "526012"
+		},
+		{
+			"name": "M.Račna",
+			"to_center": false,
+			"id": "526042"
+		},
+		{
+			"name": "Mali vrh",
+			"to_center": false,
+			"id": "505042"
+		},
+		{
+			"name": "Marinča vas",
+			"to_center": false,
+			"id": "528042"
+		},
+		{
+			"name": "Maroltova",
+			"to_center": false,
+			"id": "103162"
+		},
+		{
+			"name": "Martinova",
+			"to_center": false,
+			"id": "804132"
+		},
+		{
+			"name": "Matena",
+			"to_center": false,
+			"id": "615032"
+		},
+		{
+			"name": "Mačkov graben",
+			"to_center": false,
+			"id": "736012"
+		},
+		{
+			"name": "Medno",
+			"to_center": false,
+			"id": "804072"
+		},
+		{
+			"name": "Medvode na klancu",
+			"to_center": false,
+			"id": "805052"
+		},
+		{
+			"name": "Medvoška a.p.",
+			"to_center": false,
+			"id": "805012"
+		},
+		{
+			"name": "Mengeš Lovec",
+			"to_center": false,
+			"id": "105062"
+		},
+		{
+			"name": "Mengeš Pavovec",
+			"to_center": false,
+			"id": "105072"
+		},
+		{
+			"name": "Mengeš Petrol",
+			"to_center": false,
+			"id": "105052"
+		},
+		{
+			"name": "Mercator",
+			"to_center": false,
+			"id": "102082"
+		},
+		{
+			"name": "Mestni log",
+			"to_center": false,
+			"id": "604032"
+		},
+		{
+			"name": "Mihov štradon",
+			"to_center": false,
+			"id": "503052"
+		},
+		{
+			"name": "Mirje",
+			"to_center": false,
+			"id": "602072"
+		},
+		{
+			"name": "Mokrška",
+			"to_center": false,
+			"id": "603202"
+		},
+		{
+			"name": "Moste Petrol",
+			"to_center": false,
+			"id": "105092"
+		},
+		{
+			"name": "Mostiček",
+			"to_center": false,
+			"id": "745032"
+		},
+		{
+			"name": "Mostovna",
+			"to_center": false,
+			"id": "102062"
+		},
+		{
+			"name": "Mrzle njive",
+			"to_center": false,
+			"id": "536012"
+		},
+		{
+			"name": "Mrzlo polje",
+			"to_center": false,
+			"id": "567012"
+		},
+		{
+			"name": "Muljava",
+			"to_center": false,
+			"id": "567042"
+		},
+		{
+			"name": "Murgle",
+			"to_center": false,
+			"id": "603064"
+		},
+		{
+			"name": "Murkova",
+			"to_center": false,
+			"id": "804212"
+		},
+		{
+			"name": "NS Rudnik",
+			"to_center": false,
+			"id": "504052"
+		},
+		{
+			"name": "Na Gmajni",
+			"to_center": false,
+			"id": "615022"
+		},
+		{
+			"name": "Na Gmajnici",
+			"to_center": false,
+			"id": "704062"
+		},
+		{
+			"name": "Na Pili",
+			"to_center": false,
+			"id": "999902"
+		},
+		{
+			"name": "Na jami",
+			"to_center": false,
+			"id": "802032"
+		},
+		{
+			"name": "Na klancu",
+			"to_center": false,
+			"id": "804092"
+		},
+		{
+			"name": "Na Žalah",
+			"to_center": false,
+			"id": "203232"
+		},
+		{
+			"name": "Nadgorica",
+			"to_center": false,
+			"id": "204132"
+		},
+		{
+			"name": "Nasovče",
+			"to_center": false,
+			"id": "106022"
+		},
+		{
+			"name": "Navje",
+			"to_center": false,
+			"id": "100012"
+		},
+		{
+			"name": "Notranje Gorice",
+			"to_center": false,
+			"id": "745042"
+		},
+		{
+			"name": "Nova vas/Žireh",
+			"to_center": false,
+			"id": "999822"
+		},
+		{
+			"name": "Novaki",
+			"to_center": false,
+			"id": "746052"
+		},
+		{
+			"name": "Nove Žale",
+			"to_center": false,
+			"id": "203072"
+		},
+		{
+			"name": "Novo Polje",
+			"to_center": false,
+			"id": "204102"
+		},
+		{
+			"name": "Novo naselje",
+			"to_center": false,
+			"id": "805032"
+		},
+		{
+			"name": "Noč",
+			"to_center": false,
+			"id": "999852"
+		},
+		{
+			"name": "Nusdorferjeva",
+			"to_center": false,
+			"id": "303082"
+		},
+		{
+			"name": "Ob daljnovodu",
+			"to_center": false,
+			"id": "804112"
+		},
+		{
+			"name": "Ob sotočju",
+			"to_center": false,
+			"id": "303032"
+		},
+		{
+			"name": "Obrtna cona",
+			"to_center": false,
+			"id": "104082"
+		},
+		{
+			"name": "Omersova",
+			"to_center": false,
+			"id": "804202"
+		},
+		{
+			"name": "Opekarska",
+			"to_center": false,
+			"id": "603172"
+		},
+		{
+			"name": "Orel/Žireh",
+			"to_center": false,
+			"id": "999892"
+		},
+		{
+			"name": "Orlova",
+			"to_center": false,
+			"id": "503014"
+		},
+		{
+			"name": "Osenjakova",
+			"to_center": false,
+			"id": "304022"
+		},
+		{
+			"name": "Ostrovrhar",
+			"to_center": false,
+			"id": "204362"
+		},
+		{
+			"name": "Oval",
+			"to_center": false,
+			"id": "804342"
+		},
+		{
+			"name": "OŠ Brinje",
+			"to_center": false,
+			"id": "505162"
+		},
+		{
+			"name": "OŠ Maksa Pečarja",
+			"to_center": false,
+			"id": "104152"
+		},
+		{
+			"name": "OŠ Sostro",
+			"to_center": false,
+			"id": "404162"
+		},
+		{
+			"name": "POLHOV GRADEC",
+			"to_center": false,
+			"id": "726012"
+		},
+		{
+			"name": "POLICA/VIŠ. G.",
+			"to_center": false,
+			"id": "535092"
+		},
+		{
+			"name": "Pako",
+			"to_center": false,
+			"id": "756032"
+		},
+		{
+			"name": "Pance",
+			"to_center": false,
+			"id": "415052"
+		},
+		{
+			"name": "Parmova",
+			"to_center": false,
+			"id": "101022"
+		},
+		{
+			"name": "Pece K",
+			"to_center": false,
+			"id": "546042"
+		},
+		{
+			"name": "Perovo",
+			"to_center": false,
+			"id": "535012"
+		},
+		{
+			"name": "Peruzzijeva",
+			"to_center": false,
+			"id": "503042"
+		},
+		{
+			"name": "Peruzzijeva-2",
+			"to_center": false,
+			"id": "504192"
+		},
+		{
+			"name": "Petačev graben",
+			"to_center": false,
+			"id": "736022"
+		},
+		{
+			"name": "Petrol",
+			"to_center": false,
+			"id": "304112"
+		},
+		{
+			"name": "Peč pri Polici",
+			"to_center": false,
+			"id": "535082"
+		},
+		{
+			"name": "Pijava Gorica",
+			"to_center": false,
+			"id": "515032"
+		},
+		{
+			"name": "Plečnikova cerkev",
+			"to_center": false,
+			"id": "614012"
+		},
+		{
+			"name": "Plešivica pri Žalni",
+			"to_center": false,
+			"id": "556072"
+		},
+		{
+			"name": "Plešivica/Logu grad",
+			"to_center": false,
+			"id": "765022"
+		},
+		{
+			"name": "Plešivica/Logu spomenik",
+			"to_center": false,
+			"id": "765012"
+		},
+		{
+			"name": "Plešičeva",
+			"to_center": false,
+			"id": "803122"
+		},
+		{
+			"name": "Pod Debnim vrhom",
+			"to_center": false,
+			"id": "204282"
+		},
+		{
+			"name": "Pod Golovcem",
+			"to_center": false,
+			"id": "403032"
+		},
+		{
+			"name": "Pod Hribom",
+			"to_center": false,
+			"id": "504072"
+		},
+		{
+			"name": "Pod Rožnikom",
+			"to_center": false,
+			"id": "702012"
+		},
+		{
+			"name": "Pod Sivnikom",
+			"to_center": false,
+			"id": "404172"
+		},
+		{
+			"name": "Pod Urhom",
+			"to_center": false,
+			"id": "404142"
+		},
+		{
+			"name": "Pod gozdom",
+			"to_center": false,
+			"id": "505112"
+		},
+		{
+			"name": "Podgora",
+			"to_center": false,
+			"id": "804032"
+		},
+		{
+			"name": "Podgora pri Verdu",
+			"to_center": false,
+			"id": "756112"
+		},
+		{
+			"name": "Podgorica",
+			"to_center": false,
+			"id": "204222"
+		},
+		{
+			"name": "Podgozd",
+			"to_center": false,
+			"id": "605042"
+		},
+		{
+			"name": "Podgrad",
+			"to_center": false,
+			"id": "204262"
+		},
+		{
+			"name": "Podlesec/Žireh",
+			"to_center": false,
+			"id": "999882"
+		},
+		{
+			"name": "Podlipa",
+			"to_center": false,
+			"id": "776112"
+		},
+		{
+			"name": "Podlipa Kovtrov z.",
+			"to_center": false,
+			"id": "776122"
+		},
+		{
+			"name": "Podlipa Podlogar",
+			"to_center": false,
+			"id": "776082"
+		},
+		{
+			"name": "Podlipa Stope",
+			"to_center": false,
+			"id": "776062"
+		},
+		{
+			"name": "Podlipa Vičič",
+			"to_center": false,
+			"id": "776102"
+		},
+		{
+			"name": "Podlipa Zukancov z.",
+			"to_center": false,
+			"id": "777022"
+		},
+		{
+			"name": "Podlipa hrast",
+			"to_center": false,
+			"id": "776072"
+		},
+		{
+			"name": "Podlipa pri tran.",
+			"to_center": false,
+			"id": "776092"
+		},
+		{
+			"name": "Podlipa Županov z.",
+			"to_center": false,
+			"id": "777012"
+		},
+		{
+			"name": "Podlipoglav",
+			"to_center": false,
+			"id": "415022"
+		},
+		{
+			"name": "Podmilščakova",
+			"to_center": false,
+			"id": "102052"
+		},
+		{
+			"name": "Podmornica",
+			"to_center": false,
+			"id": "703052"
+		},
+		{
+			"name": "Podolnica",
+			"to_center": false,
+			"id": "715122"
+		},
+		{
+			"name": "Podpeč",
+			"to_center": false,
+			"id": "745122"
+		},
+		{
+			"name": "Podpeč",
+			"to_center": false,
+			"id": "745052"
+		},
+		{
+			"name": "Podpeč 1",
+			"to_center": false,
+			"id": "745112"
+		},
+		{
+			"name": "Podpeč/Lj. Jereb",
+			"to_center": false,
+			"id": "745072"
+		},
+		{
+			"name": "Podreber/Polh.G.",
+			"to_center": false,
+			"id": "725122"
+		},
+		{
+			"name": "Podsmreka GD",
+			"to_center": false,
+			"id": "715032"
+		},
+		{
+			"name": "Podsmreka Rotar",
+			"to_center": false,
+			"id": "715042"
+		},
+		{
+			"name": "Podsmreka pri Gorjancu",
+			"to_center": false,
+			"id": "715052"
+		},
+		{
+			"name": "Podsmreka pri Višnji G.",
+			"to_center": false,
+			"id": "506042"
+		},
+		{
+			"name": "Podvozna pot",
+			"to_center": false,
+			"id": "704182"
+		},
+		{
+			"name": "Pohorskega bataljona",
+			"to_center": false,
+			"id": "103062"
+		},
+		{
+			"name": "Pokopališka",
+			"to_center": false,
+			"id": "203012"
+		},
+		{
+			"name": "Polanškova",
+			"to_center": false,
+			"id": "104122"
+		},
+		{
+			"name": "Poliklinika",
+			"to_center": false,
+			"id": "402022"
+		},
+		{
+			"name": "Poljanska",
+			"to_center": false,
+			"id": "502012"
+		},
+		{
+			"name": "Polje",
+			"to_center": false,
+			"id": "304072"
+		},
+		{
+			"name": "Polje",
+			"to_center": false,
+			"id": "304074"
+		},
+		{
+			"name": "Polje obračališče",
+			"to_center": false,
+			"id": "825032"
+		},
+		{
+			"name": "Polje-kolodvor",
+			"to_center": false,
+			"id": "304082"
+		},
+		{
+			"name": "Polževo K",
+			"to_center": false,
+			"id": "507012"
+		},
+		{
+			"name": "Ponova vas",
+			"to_center": false,
+			"id": "546032"
+		},
+		{
+			"name": "Pot Rdečega križa",
+			"to_center": false,
+			"id": "703192"
+		},
+		{
+			"name": "Pot na Fužine",
+			"to_center": false,
+			"id": "303052"
+		},
+		{
+			"name": "Pot na Rakovo jelšo",
+			"to_center": false,
+			"id": "603072"
+		},
+		{
+			"name": "Pot v Hrastovec",
+			"to_center": false,
+			"id": "104142"
+		},
+		{
+			"name": "Pot v Smrečje",
+			"to_center": false,
+			"id": "104132"
+		},
+		{
+			"name": "Pot v mejah",
+			"to_center": false,
+			"id": "204292"
+		},
+		{
+			"name": "Povodje",
+			"to_center": false,
+			"id": "825012"
+		},
+		{
+			"name": "Pošta Dobrunje",
+			"to_center": false,
+			"id": "404042"
+		},
+		{
+			"name": "Praproče pri Temenici",
+			"to_center": false,
+			"id": "508072"
+		},
+		{
+			"name": "Predole K",
+			"to_center": false,
+			"id": "526022"
+		},
+		{
+			"name": "Predstruge",
+			"to_center": false,
+			"id": "517032"
+		},
+		{
+			"name": "Preglov trg",
+			"to_center": false,
+			"id": "304012"
+		},
+		{
+			"name": "Prekmurska",
+			"to_center": false,
+			"id": "202022"
+		},
+		{
+			"name": "Preserje pod Krimom",
+			"to_center": false,
+			"id": "746012"
+		},
+		{
+			"name": "Preska",
+			"to_center": false,
+			"id": "815152"
+		},
+		{
+			"name": "Prevalje pod Krimom",
+			"to_center": false,
+			"id": "756012"
+		},
+		{
+			"name": "Prežganje",
+			"to_center": false,
+			"id": "406032"
+		},
+		{
+			"name": "Prežganje šola",
+			"to_center": false,
+			"id": "406042"
+		},
+		{
+			"name": "Pri Dogonivar",
+			"to_center": false,
+			"id": "415072"
+		},
+		{
+			"name": "Pri Dolencu",
+			"to_center": false,
+			"id": "415092"
+		},
+		{
+			"name": "Pri Maranzu",
+			"to_center": false,
+			"id": "604052"
+		},
+		{
+			"name": "Primožev ovinek",
+			"to_center": false,
+			"id": "415082"
+		},
+		{
+			"name": "Privoz",
+			"to_center": false,
+			"id": "602112"
+		},
+		{
+			"name": "Prušnikova",
+			"to_center": false,
+			"id": "804022"
+		},
+		{
+			"name": "Pržanec",
+			"to_center": false,
+			"id": "804232"
+		},
+		{
+			"name": "Puhova",
+			"to_center": false,
+			"id": "103042"
+		},
+		{
+			"name": "Radna",
+			"to_center": false,
+			"id": "704072"
+		},
+		{
+			"name": "Radohova vas/Šentvidu",
+			"to_center": false,
+			"id": "508042"
+		},
+		{
+			"name": "Rakitna",
+			"to_center": false,
+			"id": "746062"
+		},
+		{
+			"name": "Rakovnik",
+			"to_center": false,
+			"id": "503022"
+		},
+		{
+			"name": "Rakovnik pri Sori",
+			"to_center": false,
+			"id": "815212"
+		},
+		{
+			"name": "Rast",
+			"to_center": false,
+			"id": "403062"
+		},
+		{
+			"name": "Razdrto",
+			"to_center": false,
+			"id": "505052"
+		},
+		{
+			"name": "Razori K",
+			"to_center": false,
+			"id": "714042"
+		},
+		{
+			"name": "Razori Rogovilc",
+			"to_center": false,
+			"id": "714032"
+		},
+		{
+			"name": "Razstavišče",
+			"to_center": false,
+			"id": "100022"
+		},
+		{
+			"name": "Račeva",
+			"to_center": false,
+			"id": "999842"
+		},
+		{
+			"name": "Rašica",
+			"to_center": false,
+			"id": "104212"
+		},
+		{
+			"name": "Reaktor",
+			"to_center": false,
+			"id": "204162"
+		},
+		{
+			"name": "Reber pri Škofljici",
+			"to_center": false,
+			"id": "505022"
+		},
+		{
+			"name": "Remiza",
+			"to_center": false,
+			"id": "803014"
+		},
+		{
+			"name": "Repnje Benk",
+			"to_center": false,
+			"id": "825042"
+		},
+		{
+			"name": "Repnje kapelica",
+			"to_center": false,
+			"id": "825062"
+		},
+		{
+			"name": "Repnje samostan",
+			"to_center": false,
+			"id": "825052"
+		},
+		{
+			"name": "Rogovilc",
+			"to_center": false,
+			"id": "104112"
+		},
+		{
+			"name": "Rožičeva",
+			"to_center": false,
+			"id": "203022"
+		},
+		{
+			"name": "Rožna dolina",
+			"to_center": false,
+			"id": "703012"
+		},
+		{
+			"name": "Rudnik",
+			"to_center": false,
+			"id": "504032"
+		},
+		{
+			"name": "Rusjanov trg",
+			"to_center": false,
+			"id": "304032"
+		},
+		{
+			"name": "Ruski car",
+			"to_center": false,
+			"id": "103132"
+		},
+		{
+			"name": "Rutar",
+			"to_center": false,
+			"id": "614062"
+		},
+		{
+			"name": "Sadinja vas",
+			"to_center": false,
+			"id": "415012"
+		},
+		{
+			"name": "Samova",
+			"to_center": false,
+			"id": "102012"
+		},
+		{
+			"name": "Sap",
+			"to_center": false,
+			"id": "505072"
+		},
+		{
+			"name": "Sava",
+			"to_center": false,
+			"id": "104054"
+		},
+		{
+			"name": "Sava",
+			"to_center": false,
+			"id": "104052"
+		},
+		{
+			"name": "Savske stolpnice",
+			"to_center": false,
+			"id": "202032"
+		},
+		{
+			"name": "Savsko naselje",
+			"to_center": false,
+			"id": "202042"
+		},
+		{
+			"name": "Selo",
+			"to_center": false,
+			"id": "415042"
+		},
+		{
+			"name": "Selo Mali Dunaj",
+			"to_center": false,
+			"id": "826102"
+		},
+		{
+			"name": "Selo pri Radohovi vasi",
+			"to_center": false,
+			"id": "508062"
+		},
+		{
+			"name": "Selo pri Vodicah",
+			"to_center": false,
+			"id": "826052"
+		},
+		{
+			"name": "Silos",
+			"to_center": false,
+			"id": "304132"
+		},
+		{
+			"name": "Sinja Gorica",
+			"to_center": false,
+			"id": "705062"
+		},
+		{
+			"name": "Sinja Gorica avt.",
+			"to_center": false,
+			"id": "705072"
+		},
+		{
+			"name": "Skaručna",
+			"to_center": false,
+			"id": "825022"
+		},
+		{
+			"name": "Slovenija avto",
+			"to_center": false,
+			"id": "803012"
+		},
+		{
+			"name": "Slovenijales",
+			"to_center": false,
+			"id": "204112"
+		},
+		{
+			"name": "Smelt",
+			"to_center": false,
+			"id": "103072"
+		},
+		{
+			"name": "Smlednik šola",
+			"to_center": false,
+			"id": "815122"
+		},
+		{
+			"name": "Smolnik Praprotnik",
+			"to_center": false,
+			"id": "737012"
+		},
+		{
+			"name": "Smolnik Setnik",
+			"to_center": false,
+			"id": "736052"
+		},
+		{
+			"name": "Smolnik Zalog",
+			"to_center": false,
+			"id": "736042"
+		},
+		{
+			"name": "Smolnik nad Hribom",
+			"to_center": false,
+			"id": "737022"
+		},
+		{
+			"name": "Smolnik žaga",
+			"to_center": false,
+			"id": "736032"
+		},
+		{
+			"name": "Smrekarjevo",
+			"to_center": false,
+			"id": "406052"
+		},
+		{
+			"name": "Smrečje/Vrh.pri Kapelici",
+			"to_center": false,
+			"id": "777052"
+		},
+		{
+			"name": "Smrečje/Vrhniko Samija",
+			"to_center": false,
+			"id": "777032"
+		},
+		{
+			"name": "Smrečje/Vrhniko pri Mihu",
+			"to_center": false,
+			"id": "777042"
+		},
+		{
+			"name": "Smrečje/Vrhniko vrh",
+			"to_center": false,
+			"id": "999912"
+		},
+		{
+			"name": "Smrjene",
+			"to_center": false,
+			"id": "515042"
+		},
+		{
+			"name": "Smrjene 1",
+			"to_center": false,
+			"id": "515092"
+		},
+		{
+			"name": "Smrjene 2",
+			"to_center": false,
+			"id": "515082"
+		},
+		{
+			"name": "Smrjene 3",
+			"to_center": false,
+			"id": "515072"
+		},
+		{
+			"name": "Smrjene 4",
+			"to_center": false,
+			"id": "515062"
+		},
+		{
+			"name": "Sneberje",
+			"to_center": false,
+			"id": "204072"
+		},
+		{
+			"name": "Sneberska",
+			"to_center": false,
+			"id": "204322"
+		},
+		{
+			"name": "Snoj",
+			"to_center": false,
+			"id": "614092"
+		},
+		{
+			"name": "Sora OŠ",
+			"to_center": false,
+			"id": "816032"
+		},
+		{
+			"name": "Sostro",
+			"to_center": false,
+			"id": "404092"
+		},
+		{
+			"name": "Sp. Brnik",
+			"to_center": false,
+			"id": "106052"
+		},
+		{
+			"name": "Sp. Pirniče",
+			"to_center": false,
+			"id": "815022"
+		},
+		{
+			"name": "Sp. Slivnica",
+			"to_center": false,
+			"id": "536032"
+		},
+		{
+			"name": "Spar",
+			"to_center": false,
+			"id": "803172"
+		},
+		{
+			"name": "Spodnji Rudnik",
+			"to_center": false,
+			"id": "504022"
+		},
+		{
+			"name": "Sr.vas pri Polh.G.",
+			"to_center": false,
+			"id": "725132"
+		},
+		{
+			"name": "Središka",
+			"to_center": false,
+			"id": "202092"
+		},
+		{
+			"name": "St.Vrhnika K",
+			"to_center": false,
+			"id": "776032"
+		},
+		{
+			"name": "St.trg/Višnji G.",
+			"to_center": false,
+			"id": "506032"
+		},
+		{
+			"name": "Stadion",
+			"to_center": false,
+			"id": "102042"
+		},
+		{
+			"name": "Staje",
+			"to_center": false,
+			"id": "625032"
+		},
+		{
+			"name": "Stanežiče",
+			"to_center": false,
+			"id": "804062"
+		},
+		{
+			"name": "Stara Ježica",
+			"to_center": false,
+			"id": "104372"
+		},
+		{
+			"name": "Stara cerkev",
+			"to_center": false,
+			"id": "802012"
+		},
+		{
+			"name": "Stara pošta",
+			"to_center": false,
+			"id": "505102"
+		},
+		{
+			"name": "Stična K",
+			"to_center": false,
+			"id": "507052"
+		},
+		{
+			"name": "Stična KZ",
+			"to_center": false,
+			"id": "507042"
+		},
+		{
+			"name": "Stožice",
+			"to_center": false,
+			"id": "103102"
+		},
+		{
+			"name": "Strahomer",
+			"to_center": false,
+			"id": "626022"
+		},
+		{
+			"name": "Streliška",
+			"to_center": false,
+			"id": "502032"
+		},
+		{
+			"name": "Strelišče",
+			"to_center": false,
+			"id": "503012"
+		},
+		{
+			"name": "Studenec",
+			"to_center": false,
+			"id": "304062"
+		},
+		{
+			"name": "Svetčeva",
+			"to_center": false,
+			"id": "702032"
+		},
+		{
+			"name": "Tabor",
+			"to_center": false,
+			"id": "804104"
+		},
+		{
+			"name": "Tabor",
+			"to_center": false,
+			"id": "804102"
+		},
+		{
+			"name": "Tacen",
+			"to_center": false,
+			"id": "804152"
+		},
+		{
+			"name": "Tacenski most",
+			"to_center": false,
+			"id": "804144"
+		},
+		{
+			"name": "Tacenski most",
+			"to_center": false,
+			"id": "804142"
+		},
+		{
+			"name": "Tbilisijska",
+			"to_center": false,
+			"id": "603144"
+		},
+		{
+			"name": "Tbilisijska",
+			"to_center": false,
+			"id": "603142"
+		},
+		{
+			"name": "Tehnounion",
+			"to_center": false,
+			"id": "803072"
+		},
+		{
+			"name": "Tiki",
+			"to_center": false,
+			"id": "802062"
+		},
+		{
+			"name": "Tinčk",
+			"to_center": false,
+			"id": "405102"
+		},
+		{
+			"name": "Tivoli",
+			"to_center": false,
+			"id": "801012"
+		},
+		{
+			"name": "Tobačna",
+			"to_center": false,
+			"id": "602042"
+		},
+		{
+			"name": "Tomačevska",
+			"to_center": false,
+			"id": "203032"
+		},
+		{
+			"name": "Tomažičeva",
+			"to_center": false,
+			"id": "603212"
+		},
+		{
+			"name": "Tomišelj",
+			"to_center": false,
+			"id": "615062"
+		},
+		{
+			"name": "Tomišelj A",
+			"to_center": false,
+			"id": "615072"
+		},
+		{
+			"name": "Tomišelj K",
+			"to_center": false,
+			"id": "615052"
+		},
+		{
+			"name": "Toplarna",
+			"to_center": false,
+			"id": "103012"
+		},
+		{
+			"name": "Topniška",
+			"to_center": false,
+			"id": "102022"
+		},
+		{
+			"name": "Topole/Mengšu",
+			"to_center": false,
+			"id": "105082"
+		},
+		{
+			"name": "Tovarna Lek",
+			"to_center": false,
+			"id": "103052"
+		},
+		{
+			"name": "Tovorni kolodvor",
+			"to_center": false,
+			"id": "203062"
+		},
+		{
+			"name": "Trata",
+			"to_center": false,
+			"id": "804012"
+		},
+		{
+			"name": "Trbeže",
+			"to_center": false,
+			"id": "204252"
+		},
+		{
+			"name": "Trebeljevo",
+			"to_center": false,
+			"id": "406022"
+		},
+		{
+			"name": "Trnovo",
+			"to_center": false,
+			"id": "602122"
+		},
+		{
+			"name": "Troščine",
+			"to_center": false,
+			"id": "535052"
+		},
+		{
+			"name": "Trzin",
+			"to_center": false,
+			"id": "105022"
+		},
+		{
+			"name": "Trzin Mlake",
+			"to_center": false,
+			"id": "105012"
+		},
+		{
+			"name": "Trzin ind. cona",
+			"to_center": false,
+			"id": "104242"
+		},
+		{
+			"name": "Trzin vas",
+			"to_center": false,
+			"id": "105032"
+		},
+		{
+			"name": "Tržnica Koseze",
+			"to_center": false,
+			"id": "803102"
+		},
+		{
+			"name": "Tržnica Moste",
+			"to_center": false,
+			"id": "303012"
+		},
+		{
+			"name": "Utik",
+			"to_center": false,
+			"id": "826042"
+		},
+		{
+			"name": "V. Lese",
+			"to_center": false,
+			"id": "528032"
+		},
+		{
+			"name": "V. Lipljene",
+			"to_center": false,
+			"id": "546072"
+		},
+		{
+			"name": "V. Mlačevo",
+			"to_center": false,
+			"id": "556102"
+		},
+		{
+			"name": "V. Mlačevo",
+			"to_center": false,
+			"id": "556104"
+		},
+		{
+			"name": "V. St. vas",
+			"to_center": false,
+			"id": "535032"
+		},
+		{
+			"name": "V.Račna",
+			"to_center": false,
+			"id": "526032"
+		},
+		{
+			"name": "VODICE",
+			"to_center": false,
+			"id": "826012"
+		},
+		{
+			"name": "Valburga",
+			"to_center": false,
+			"id": "815092"
+		},
+		{
+			"name": "Vaše",
+			"to_center": false,
+			"id": "815182"
+		},
+		{
+			"name": "Vaše Helios",
+			"to_center": false,
+			"id": "815172"
+		},
+		{
+			"name": "Veliki Lipoglav",
+			"to_center": false,
+			"id": "415032"
+		},
+		{
+			"name": "Veliki štradon",
+			"to_center": false,
+			"id": "603082"
+		},
+		{
+			"name": "Verd K",
+			"to_center": false,
+			"id": "756122"
+		},
+		{
+			"name": "Verje",
+			"to_center": false,
+			"id": "835012"
+		},
+		{
+			"name": "Vesca",
+			"to_center": false,
+			"id": "826062"
+		},
+		{
+			"name": "Vevče",
+			"to_center": false,
+			"id": "304102"
+		},
+		{
+			"name": "Vevče Papirnica",
+			"to_center": false,
+			"id": "304122"
+		},
+		{
+			"name": "Večna pot",
+			"to_center": false,
+			"id": "703182"
+		},
+		{
+			"name": "Viadukt",
+			"to_center": false,
+			"id": "202012"
+		},
+		{
+			"name": "Vikrče",
+			"to_center": false,
+			"id": "815012"
+		},
+		{
+			"name": "Vir pri Stični",
+			"to_center": false,
+			"id": "507062"
+		},
+		{
+			"name": "Visoko/Kureščkom",
+			"to_center": false,
+			"id": "606032"
+		},
+		{
+			"name": "Vič",
+			"to_center": false,
+			"id": "703092"
+		},
+		{
+			"name": "Viško polje",
+			"to_center": false,
+			"id": "703042"
+		},
+		{
+			"name": "Višnja Gora",
+			"to_center": false,
+			"id": "506022"
+		},
+		{
+			"name": "Vižmarje",
+			"to_center": false,
+			"id": "804252"
+		},
+		{
+			"name": "Vnajnarje",
+			"to_center": false,
+			"id": "405092"
+		},
+		{
+			"name": "Vodice OŠ",
+			"to_center": false,
+			"id": "826092"
+		},
+		{
+			"name": "Vodičar",
+			"to_center": false,
+			"id": "505122"
+		},
+		{
+			"name": "Vodovodna",
+			"to_center": false,
+			"id": "102072"
+		},
+		{
+			"name": "Vojsko",
+			"to_center": false,
+			"id": "826082"
+		},
+		{
+			"name": "Volavlje",
+			"to_center": false,
+			"id": "406062"
+		},
+		{
+			"name": "Vopovlje",
+			"to_center": false,
+			"id": "106042"
+		},
+		{
+			"name": "Vrbljene",
+			"to_center": false,
+			"id": "625012"
+		},
+		{
+			"name": "Vrh nad Želimljami 1",
+			"to_center": false,
+			"id": "516062"
+		},
+		{
+			"name": "Vrh nad Želimljami 2",
+			"to_center": false,
+			"id": "516072"
+		},
+		{
+			"name": "Vrh nad Želimljami GD",
+			"to_center": false,
+			"id": "516052"
+		},
+		{
+			"name": "Vrhnika",
+			"to_center": false,
+			"id": "706012"
+		},
+		{
+			"name": "Vrhnika hrib",
+			"to_center": false,
+			"id": "706022"
+		},
+		{
+			"name": "Vrhnika samop.",
+			"to_center": false,
+			"id": "776012"
+		},
+		{
+			"name": "Vrhnika vrt.",
+			"to_center": false,
+			"id": "705082"
+		},
+		{
+			"name": "Vrhovci",
+			"to_center": false,
+			"id": "704032"
+		},
+		{
+			"name": "Vrzdenec",
+			"to_center": false,
+			"id": "716042"
+		},
+		{
+			"name": "Yulon",
+			"to_center": false,
+			"id": "203192"
+		},
+		{
+			"name": "ZAPOTOK",
+			"to_center": false,
+			"id": "606052"
+		},
+		{
+			"name": "ZD Polje",
+			"to_center": false,
+			"id": "304142"
+		},
+		{
+			"name": "ZG. Pirniče",
+			"to_center": false,
+			"id": "815042"
+		},
+		{
+			"name": "Zadvor",
+			"to_center": false,
+			"id": "404062"
+		},
+		{
+			"name": "Zadvor pri Grosupljem",
+			"to_center": false,
+			"id": "546012"
+		},
+		{
+			"name": "Zadvor-2",
+			"to_center": false,
+			"id": "404152"
+		},
+		{
+			"name": "Zagradec pri Grosupljem",
+			"to_center": false,
+			"id": "556082"
+		},
+		{
+			"name": "Zagradec/Krki",
+			"to_center": false,
+			"id": "528052"
+		},
+		{
+			"name": "Zaklanec/Horjulu",
+			"to_center": false,
+			"id": "715132"
+		},
+		{
+			"name": "Zaloška",
+			"to_center": false,
+			"id": "303024"
+		},
+		{
+			"name": "Zaplana",
+			"to_center": false,
+			"id": "706032"
+		},
+		{
+			"name": "Zapoge",
+			"to_center": false,
+			"id": "825082"
+		},
+		{
+			"name": "Zapotok/Kureščkom K",
+			"to_center": false,
+			"id": "606042"
+		},
+		{
+			"name": "Zapuže",
+			"to_center": false,
+			"id": "804382"
+		},
+		{
+			"name": "Zasavska",
+			"to_center": false,
+			"id": "104172"
+		},
+		{
+			"name": "Zavrh",
+			"to_center": false,
+			"id": "815142"
+		},
+		{
+			"name": "Zbilje K",
+			"to_center": false,
+			"id": "805072"
+		},
+		{
+			"name": "Zbilje jezero",
+			"to_center": false,
+			"id": "805082"
+		},
+		{
+			"name": "Zbiljski Gaj",
+			"to_center": false,
+			"id": "805062"
+		},
+		{
+			"name": "Zdenska vas",
+			"to_center": false,
+			"id": "527022"
+		},
+		{
+			"name": "Zeleni gaj",
+			"to_center": false,
+			"id": "204192"
+		},
+		{
+			"name": "Zg. Besnica",
+			"to_center": false,
+			"id": "405072"
+		},
+		{
+			"name": "Zg. Gameljne",
+			"to_center": false,
+			"id": "104202"
+		},
+		{
+			"name": "Zgornja Šiška",
+			"to_center": false,
+			"id": "803092"
+		},
+		{
+			"name": "Zgornji log",
+			"to_center": false,
+			"id": "704142"
+		},
+		{
+			"name": "Zidarjevec",
+			"to_center": false,
+			"id": "614052"
+		},
+		{
+			"name": "Zidarjevec 2",
+			"to_center": false,
+			"id": "614102"
+		},
+		{
+			"name": "Ziherlova",
+			"to_center": false,
+			"id": "602092"
+		},
+		{
+			"name": "Zmajski most",
+			"to_center": false,
+			"id": "501022"
+		},
+		{
+			"name": "Znojilje K",
+			"to_center": false,
+			"id": "567052"
+		},
+		{
+			"name": "Čebelarska",
+			"to_center": false,
+			"id": "803112"
+		},
+		{
+			"name": "Čerinova",
+			"to_center": false,
+			"id": "103122"
+		},
+		{
+			"name": "Črni Vrh nad Vrhovci",
+			"to_center": false,
+			"id": "737032"
+		},
+		{
+			"name": "Čušperk",
+			"to_center": false,
+			"id": "526052"
+		},
+		{
+			"name": "Šemnikar",
+			"to_center": false,
+			"id": "406012"
+		},
+		{
+			"name": "Šentjakob",
+			"to_center": false,
+			"id": "204154"
+		},
+		{
+			"name": "Šentjakob",
+			"to_center": false,
+			"id": "204152"
+		},
+		{
+			"name": "Šentvid",
+			"to_center": false,
+			"id": "804042"
+		},
+		{
+			"name": "Šentvid pri Stični",
+			"to_center": false,
+			"id": "507112"
+		},
+		{
+			"name": "Šentvid pri Stični K",
+			"to_center": false,
+			"id": "507122"
+		},
+		{
+			"name": "Šentvid pri Stični ŽP",
+			"to_center": false,
+			"id": "507132"
+		},
+		{
+			"name": "Šinkov Turn",
+			"to_center": false,
+			"id": "826132"
+		},
+		{
+			"name": "Šinkov Turn hrib",
+			"to_center": false,
+			"id": "826142"
+		},
+		{
+			"name": "Šišenska",
+			"to_center": false,
+			"id": "803016"
+		},
+		{
+			"name": "Škocjan",
+			"to_center": false,
+			"id": "546092"
+		},
+		{
+			"name": "Škoflje/Šentvidu",
+			"to_center": false,
+			"id": "508032"
+		},
+		{
+			"name": "Škofljica",
+			"to_center": false,
+			"id": "515012"
+		},
+		{
+			"name": "Škofljica Javornik",
+			"to_center": false,
+			"id": "505012"
+		},
+		{
+			"name": "Škofljica Petkovšek",
+			"to_center": false,
+			"id": "504102"
+		},
+		{
+			"name": "Škofljica žaga",
+			"to_center": false,
+			"id": "504112"
+		},
+		{
+			"name": "Škrilje",
+			"to_center": false,
+			"id": "605052"
+		},
+		{
+			"name": "Škrjanče/Iv.G.",
+			"to_center": false,
+			"id": "567022"
+		},
+		{
+			"name": "Šlandrova",
+			"to_center": false,
+			"id": "104072"
+		},
+		{
+			"name": "Šmarje",
+			"to_center": false,
+			"id": "505062"
+		},
+		{
+			"name": "Šmartno",
+			"to_center": false,
+			"id": "104192"
+		},
+		{
+			"name": "Šmartno pod Š.G.",
+			"to_center": false,
+			"id": "104194"
+		},
+		{
+			"name": "Šola Jarše",
+			"to_center": false,
+			"id": "203042"
+		},
+		{
+			"name": "Šola Jarše",
+			"to_center": false,
+			"id": "203044"
+		},
+		{
+			"name": "Šolska",
+			"to_center": false,
+			"id": "744012"
+		},
+		{
+			"name": "Špilar",
+			"to_center": false,
+			"id": "505032"
+		},
+		{
+			"name": "Št. Jurij",
+			"to_center": false,
+			"id": "546062"
+		},
+		{
+			"name": "Štajerska",
+			"to_center": false,
+			"id": "103182"
+		},
+		{
+			"name": "Štepanja vas",
+			"to_center": false,
+			"id": "403042"
+		},
+		{
+			"name": "Študentsko naselje",
+			"to_center": false,
+			"id": "702022"
+		},
+		{
+			"name": "Šuica",
+			"to_center": false,
+			"id": "725022"
+		},
+		{
+			"name": "ŽELEZNA",
+			"to_center": false,
+			"id": "201012"
+		},
+		{
+			"name": "ŽELIMLJE",
+			"to_center": false,
+			"id": "525032"
+		},
+		{
+			"name": "Žabja vas",
+			"to_center": false,
+			"id": "535072"
+		},
+		{
+			"name": "Žale",
+			"to_center": false,
+			"id": "202062"
+		},
+		{
+			"name": "Žažar",
+			"to_center": false,
+			"id": "716032"
+		},
+		{
+			"name": "Želimlje Nučič",
+			"to_center": false,
+			"id": "525022"
+		},
+		{
+			"name": "Želimlje Rogovilec",
+			"to_center": false,
+			"id": "525012"
+		},
+		{
+			"name": "Žiri",
+			"to_center": false,
+			"id": "999812"
+		},
+		{
+			"name": "Žirovnik",
+			"to_center": false,
+			"id": "725062"
+		},
+		{
+			"name": "Žito",
+			"to_center": false,
+			"id": "203152"
+		},
+		{
+			"name": "Živalski vrt-ZOO",
+			"to_center": false,
+			"id": "703122"
+		}
+	]
+}
